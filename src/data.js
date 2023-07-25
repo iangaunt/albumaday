@@ -3,7 +3,7 @@ let root = document.querySelector(':root');
 let keys = Object.keys(albums);
 
 let canFlip = true;
-let darkModeOn = false;
+let darkMode = false;
 
 for (let i = 0; i < keys.length; i++) {
     let img = new Image();
@@ -41,8 +41,8 @@ function newAlbum() {
 }
 
 function colorMode() {
-    darkModeOn = !darkModeOn;
-    if (darkModeOn) {
+    darkMode = !darkMode;
+    if (darkMode) {
         root.style.setProperty("--white", "rgb(42, 41, 48)")
         root.style.setProperty("--black", "rgb(255, 255, 255");
         root.style.setProperty("--green", "rgb(127, 226, 127)");
