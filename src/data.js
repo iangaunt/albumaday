@@ -42,21 +42,17 @@ function newAlbum() {
 
 function colorMode() {
     darkModeOn = !darkModeOn;
-    console.log(darkModeOn);
-
     if (darkModeOn) {
         root.style.setProperty("--white", "rgb(42, 41, 48)")
         root.style.setProperty("--black", "rgb(255, 255, 255");
-
+        root.style.setProperty("--green", "rgb(127, 226, 127)");
         document.getElementsByClassName("logo")[0].style.filter = "invert(100%)";
     } else {
         root.style.setProperty("--white", "rgb(255, 255, 255");
         root.style.setProperty("--black", "rgb(0, 0, 0");
-
+        root.style.setProperty("--green", "rgb(64, 112, 64)");
         document.getElementsByClassName("logo")[0].style.filter = "invert(0%)";
     }
-
-    console.log(getComputedStyle(root).getPropertyValue("--white"));
 }
 
 export { newAlbum, colorMode }
