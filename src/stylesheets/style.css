@@ -87,7 +87,7 @@ main div img {
   aspect-ratio: 1;
   border-radius: 2%;
   box-shadow: 0 0 80px rgba(0, 0, 0, 0.5);
-  transition: border-radius 0.4s, box-shadow 0.6s, transform 0.4s;
+  transition: border-radius 0.4s, box-shadow 0.6s, filter 0.4s, transform 0.4s;
   width: 100%;
 }
 main div img:hover {
