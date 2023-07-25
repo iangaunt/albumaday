@@ -1,14 +1,16 @@
 import albums from "./albums.json" assert { type: 'json' };
+let root = document.querySelector(':root');
 let keys = Object.keys(albums);
 
 let canFlip = true;
+let darkModeOn = false;
 
 for (let i = 0; i < keys.length; i++) {
     let img = new Image();
     img.src = albums[keys[i]]["Image"];
 }
 
-export function newAlbum() {
+function newAlbum() {
     if (canFlip) {
         canFlip = false;
 
@@ -37,3 +39,24 @@ export function newAlbum() {
         }, 800)
     }
 }
+
+function colorMode() {
+    darkModeOn = !darkModeOn;
+    console.log(darkModeOn);
+
+    if (darkModeOn) {
+        root.style.setProperty("--white", "rgb(42, 41, 48)")
+        root.style.setProperty("--black", "rgb(255, 255, 255");
+
+        document.getElementsByClassName("logo")[0].style.filter = "invert(100%)";
+    } else {
+        root.style.setProperty("--white", "rgb(255, 255, 255");
+        root.style.setProperty("--black", "rgb(0, 0, 0");
+
+        document.getElementsByClassName("logo")[0].style.filter = "invert(0%)";
+    }
+
+    console.log(getComputedStyle(root).getPropertyValue("--white"));
+}
+
+export { newAlbum, colorMode }

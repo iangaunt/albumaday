@@ -10,7 +10,12 @@ for (let i = 0; i < elements.length - 1; i++) {
 
     // Fetch the appropriate data.
     let Album = content[0].innerHTML;
-    let Artist = content.length > 1 ? content[1].innerHTML : e.getElementsByClassName("ui_name_locale")[1].innerHTML;
+    let Artist;
+    try {
+        Artist = content.length > 1 ? content[1].innerHTML : e.getElementsByClassName("ui_name_locale")[1].innerHTML;
+    } catch (e) {
+        Artist = "N/A";
+    }
     let Image = e.getElementsByTagName("img")[0].src;
     let Rank = e.parentElement.id.substring(3);
 
