@@ -1,3 +1,10 @@
+/*
+ * Used for scraping the albums from the RateYourMusic charts.
+ * Paste the code directly into the console to get a JSON formatted string.
+ * Make sure to load the images beforehand, since this code does not have access
+ * to the backend of RYM to load the images itself.
+*/
+
 // Fetches all elements with the album class to fetch album data.
 let elements = document.getElementsByClassName("object_release")
 let final = "{\n";
