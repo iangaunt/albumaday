@@ -1,0 +1,139 @@
+@import "https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap";
+
+@mixin flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+$white: rgb(255, 255, 255);
+$black-tns: rgb(0 0 0 / 0.5);
+$green: rgb(64, 112, 64);
+
+@keyframes spin-card {
+    0% { transform: rotateY(0deg); filter: blur(0px); }
+    50% { filter: blur(10px) }
+    100% { transform: rotateY(360deg); filter: blur(0px); }
+}
+
+@keyframes fade-out-in {
+    0% { opacity: 1 }
+    50% { opacity: 0 }
+    100% { opacity: 1 }
+}
+
+.spin-animation {
+    animation: 0.8s ease-out spin-card forwards;
+}
+
+.fade-animation {
+    animation: 0.8s ease-out fade-out-in forwards;
+}
+
+* {
+    font-family: "Rubik", sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    @include flex;
+
+    position: absolute;
+    padding: 20px;
+
+    img {
+        aspect-ratio: 1;
+        transition: transform 0.6s;
+        width: 50px;
+
+        &:hover {
+            transform: rotateZ(360deg);
+        }
+    }
+
+    p {
+        @include flex;
+        
+        align-items: flex-start;
+        flex-direction: column;
+        font-size: 140%;
+        font-weight: 100;
+        padding-left: 20px;
+        text-align: left;
+
+        &::after {
+            color: $black-tns;
+            content: "... keeps the boredom away";
+            font-size: 50%;
+            font-style: italic;
+        }
+    }
+}
+
+main {
+    @include flex;
+    flex-direction: column;
+    height: 100vh;
+
+    div {
+        aspect-ratio: 1;
+        width: clamp(200px, 80vw, 400px);
+
+        img {
+            aspect-ratio: 1;
+            border-radius: 2%;       
+            box-shadow: 0 0 80px $black-tns;
+            transition: border-radius 0.4s, box-shadow 0.6s, transform 0.4s;
+            width: 100%;
+
+            &:hover {
+                border-radius: 3%;
+                box-shadow: 0 0 60px $black-tns;
+                filter: saturate(50%);
+            }
+        }
+
+        &:hover {
+            img {
+                transform: rotateZ(2deg);
+            }
+
+            &::after {
+                opacity: 1;
+            }
+        }
+
+        &::after {          
+            content: "New record?";
+            color: $white;
+            display: block;
+            font-size: 100%;
+            height: 0;
+            position: relative;
+            opacity: 0; 
+            top: -10%;
+            transition: opacity 0.2s;
+            white-space: nowrap;
+            width: 100%;
+        }
+    } 
+
+    h1 {
+        padding-top: 15px;
+    }
+
+    h2, h3 { font-weight: 100; }
+
+    h3 {
+        font-size: 75%;
+        padding-top: 10px;
+
+        span {
+            color: $green;
+            font-size: 120%;
+        }
+    }
+}

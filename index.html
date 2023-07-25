@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en-US">
+        <link rel="stylesheet" href="./src/stylesheets/style.css">
+        <title>Album A Day</title>
+        <link rel="icon" type="image/x-icon" href="./public/images/favicon.ico">
+    </head>
+
+    <body>
+        <script type='module' src='./src/index.js'></script>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <header>
+            <img class="logo" src="/public/images/logo.png">
+            <p>Album A Day</p>
+        </header>
+
+        <main>
+            <div id="cover-container" class="album-cover">
+                <img id="album-cover" onclick="newAlbum()" class="cover-image" src="https://e.snmc.io/i/600/w/0761f596aae4576c11ad3d8802b6e5d9/6902522/neutral-milk-hotel-in-the-aeroplane-over-the-sea-Cover-Art.jpg">
+            </div>
+            
+            <section id="text-container">
+                <h1 id="album-name">In The Aeroplane Over The Sea</h1>
+                <h2 id="album-release">Neutral Milk Hotel • 1998</h2>
+
+                <h3 id="album-genre">Indie Folk • Indie Rock</h3>
+                <h3>Ranked #<span id="album-rank">2</span> on RateYourMusic</h3>
+            </section>
+        </main>
+    </body>
+</html>
+
+
