@@ -40,6 +40,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    transition: background 0.3s, color 0.3s;
 
     body {
         background: var(--white);
