@@ -57,6 +57,7 @@ header {
   align-items: center;
   position: absolute;
   padding: 20px;
+  z-index: 100;
 }
 header img {
   aspect-ratio: 1;
