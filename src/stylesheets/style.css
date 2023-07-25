@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap";
 :root {
   --white: rgb(255, 255, 255);
+  --grey: rgba(116, 116, 116, 0.116);
   --black: rgb(0, 0, 0);
   --black-tns: rgba(0 0 0 / 0.5);
   --green: rgb(64, 112, 64);
@@ -50,6 +51,9 @@
 * body {
   background: var(--white);
 }
+* hr {
+  opacity: 0;
+}
 
 header {
   display: flex;
@@ -62,7 +66,6 @@ header img {
   aspect-ratio: 1;
   transition: transform 0.6s;
   width: 50px;
-  z-index: 100;
 }
 header img:hover {
   transform: rotateZ(360deg);
@@ -102,12 +105,11 @@ main div img {
   box-shadow: 0 0 80px var(--black-tns);
   transition: border-radius 0.4s, box-shadow 0.6s, filter 0.4s, transform 0.4s;
   width: 100%;
-  z-index: 100;
 }
 main div img:hover {
   border-radius: 3%;
   box-shadow: 0 0 60px var(--black-tns);
-  filter: saturate(50%);
+  filter: saturate(40%);
 }
 main div:hover img {
   transform: rotateZ(2deg);
@@ -129,6 +131,7 @@ main div::after {
   width: 100%;
 }
 main h1 {
+  transition: color 0.6s;
   padding-top: 15px;
 }
 main h2, main h3 {
@@ -141,6 +144,36 @@ main h3 {
 main h3 span {
   color: var(--green);
   font-size: 120%;
+}
+
+.rules {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
+  left: 10px;
+  position: absolute;
+  top: 12%;
+}
+.rules div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.rules div input {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: none;
+  border-radius: 5px;
+  background: var(--grey);
+  width: 100px;
+}
+.rules div p {
+  padding-right: 10px;
 }
 
 .spider {

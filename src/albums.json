@@ -3978,5 +3978,992 @@
         "Image": "https://e.snmc.io/i/300/s/2f5ce009d0032a18e7e0886a6f3a2fe7/10709069/Kraftwerk%20-%20Computerwelt%2C%20Cover%20art.png",
         "Rank": 400,
         "Year": 1981
+    },
+    "Exodus [1977]": {
+        "Artist": "Bob Marley",
+        "Genres": [
+            "Roots Reggae"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/2ec868f59c8e057bbd2e49ab495549fd/4228456/Bob%20Marley%20%26%20The%20Wailers%20-%20Exodus%2C%20Cover%20art.jpeg",
+        "Rank": 401,
+        "Year": 1977
+    },
+    "Mingus Mingus Mingus Mingus Mingus [1964]": {
+        "Artist": "Charles Mingus",
+        "Genres": [
+            "Post-Bop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/a04d25ff676df9e9677f6d4b64db8767/2340162/Charles%20Mingus%20-%20Mingus%20Mingus%20Mingus%20Mingus%20Mingus%2C%20Cover%20art.jpeg",
+        "Rank": 402,
+        "Year": 1964
+    },
+    "Free for All": {
+        "Artist": "Art Blakey &amp; The Jazz Messengers",
+        "Genres": [
+            "Hard Bop",
+            "Post-Bop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/8eb58cf549dbef115fb4afe6c02c99ae/9095216/Art%20Blakey%20%26%20The%20Jazz%20Messengers%20-%20Free%20for%20All%2C%20Cover%20art.jpeg",
+        "Rank": 403,
+        "Year": 1965
+    },
+    "Made in Japan [1972]": {
+        "Artist": "Deep Purple",
+        "Genres": [
+            "Hard Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/7cfc472a2d0726b4362040838cb97ac6/1231551/Deep%20Purple%20-%20Made%20in%20Japan%2C%20Cover%20art.jpeg",
+        "Rank": 404,
+        "Year": 1972
+    },
+    "Sun Bear Concerts Piano Solo: Recorded in Japan [1978]": {
+        "Artist": "Keith Jarrett",
+        "Genres": [
+            "ECM Style Jazz"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/a8899308ee0f64dc16ab3073be4447a1/2187844/Keith%20Jarrett%20-%20Sun%20Bear%20Concerts%20Piano%20Solo%3A%20Recorded%20in%20Japan%2C%20Cover%20art.jpeg",
+        "Rank": 405,
+        "Year": 1978
+    },
+    "Mellon Collie and the Infinite Sadness": {
+        "Artist": "The Smashing Pumpkins",
+        "Genres": [
+            "Alternative Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/4f4d2c705e531fd01e3bcb5f064f4975/8796180/The%20Smashing%20Pumpkins%20-%20Mellon%20Collie%20and%20the%20Infinite%20Sadness%2C%20Cover%20art.jpeg",
+        "Rank": 406,
+        "Year": 1995
+    },
+    "Script of the Bridge": {
+        "Artist": "The Chameleons",
+        "Genres": [
+            "Post-Punk"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/0def5dadb9b56b7fccc847450ab92b82/10388906/The%20Chameleons%20-%20Script%20of%20the%20Bridge%2C%20Cover%20art.jpeg",
+        "Rank": 407,
+        "Year": 1983
+    },
+    "Storm of the Light's Bane": {
+        "Artist": "Dissection",
+        "Genres": [
+            "Melodic Black Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/4e4dcfd0a61c5c72b775915761566454/1981479/Dissection%20-%20Storm%20of%20the%20Light's%20Bane%2C%20Cover%20art.jpeg",
+        "Rank": 408,
+        "Year": 1995
+    },
+    "Nonagon Infinity": {
+        "Artist": "King Gizzard and The Lizard Wizard",
+        "Genres": [
+            "Garage Rock",
+            "Psychedelic Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/1cbd53447ea90a979e384c7d930d5fa5/8043728/King%20Gizzard%20and%20The%20Lizard%20Wizard%20-%20Nonagon%20Infinity%2C%20Cover%20art.jpeg",
+        "Rank": 409,
+        "Year": 2016
+    },
+    "Unleashed in the East: Live in Japan": {
+        "Artist": "Judas Priest",
+        "Genres": [
+            "Heavy Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/372e31dd6a2193c5fe19c7f59fd6474b/3700071/Judas%20Priest%20-%20Unleashed%20in%20the%20East%3A%20Live%20in%20Japan%2C%20Cover%20art.jpeg",
+        "Rank": 410,
+        "Year": 1979
+    },
+    "Horses": {
+        "Artist": "Patti Smith",
+        "Genres": [
+            "Art Rock",
+            "Proto-Punk",
+            "Singer-Songwriter"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/b32b46bb02652fbb47ff77287cfc54e9/8224054/Patti%20Smith%20-%20Horses%2C%20Cover%20art.jpeg",
+        "Rank": 411,
+        "Year": 1975
+    },
+    "Visions of the Country": {
+        "Artist": "Robbie Basho",
+        "Genres": [
+            "American Primitivism"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/653476a2d5781561d3859dd1fcc8ad18/6246042/Robbie%20Basho%20-%20Visions%20of%20the%20Country%2C%20Cover%20art.jpeg",
+        "Rank": 412,
+        "Year": 1978
+    },
+    "Live at Sin-é: Legacy Edition": {
+        "Artist": "Jeff Buckley",
+        "Genres": [
+            "Alternative Rock",
+            "Singer-Songwriter"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/d46a3bf7ba6d92222f2fd4596524df07/1257166/Jeff%20Buckley%20-%20Live%20at%20Sin-%C3%A9%3A%20Legacy%20Edition%2C%20Cover%20art.jpeg",
+        "Rank": 413,
+        "Year": 2003
+    },
+    "Moondance": {
+        "Artist": "Van Morrison",
+        "Genres": [
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/f8382a263b282b0abd942c3590b3ae72/4793066/Van%20Morrison%20-%20Moondance%2C%20Cover%20art.jpeg",
+        "Rank": 414,
+        "Year": 1970
+    },
+    "Il buono, il brutto, il cattivo": {
+        "Artist": "Ennio Morricone",
+        "Genres": [
+            "Film Score",
+            "Spaghetti Western"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/c70dd1dfc23a393a843d155e3ce16bfc/2391194/Ennio%20Morricone%20-%20Il%20buono%2C%20il%20brutto%2C%20il%20cattivo%2C%20Cover%20art.jpeg",
+        "Rank": 415,
+        "Year": 1966
+    },
+    "The G.A.T...": {
+        "Artist": "Mach-Hommy",
+        "Genres": [
+            "Conscious Hip Hop",
+            "East Coast Hip Hop",
+            "Jazz Rap"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/5d7cd21a3e80ff8050b17827866d886d/6684825/Mach-Hommy%20-%20The%20G_A_T___%2C%20Cover%20art.jpeg",
+        "Rank": 416,
+        "Year": 2017
+    },
+    "The End of Evangelion": {
+        "Artist": "Johann Sebastian Bach",
+        "Genres": [
+            "Film Score",
+            "Modern Classical",
+            "Orchestral"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/be4c5a51531735bd2fc785a4714677f8/1634595/Shiro%20Sagisu%20-%20The%20End%20of%20Evangelion%2C%20Cover%20art.jpeg",
+        "Rank": 417,
+        "Year": 1997
+    },
+    "Stankonia": {
+        "Artist": "OutKast",
+        "Genres": [
+            "Southern Hip Hop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/4d83530bb93b830ace7f04cc80274ab2/2573835/OutKast%20-%20Stankonia%2C%20Cover%20art.jpeg",
+        "Rank": 418,
+        "Year": 2000
+    },
+    "Wild Is the Wind": {
+        "Artist": "Nina Simone",
+        "Genres": [
+            "Soul",
+            "Vocal Jazz"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/ac0c0339667eb42abd58816c2d66f396/3081641/Nina%20Simone%20-%20Wild%20Is%20the%20Wind%2C%20Cover%20art.jpeg",
+        "Rank": 419,
+        "Year": 1966
+    },
+    "Keep It Like a Secret": {
+        "Artist": "Built to Spill",
+        "Genres": [
+            "Indie Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/0528631dea53a83003a55bf1108d8dc5/8978367/Built%20to%20Spill%20-%20Keep%20It%20Like%20a%20Secret%2C%20Cover%20art.jpeg",
+        "Rank": 420,
+        "Year": 1999
+    },
+    "Saxophone Colossus": {
+        "Artist": "Sonny Rollins",
+        "Genres": [
+            "Hard Bop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/2ee574b733173a32236470270d58b81e/7977284/Sonny%20Rollins%20-%20Saxophone%20Colossus%2C%20Cover%20art.jpeg",
+        "Rank": 421,
+        "Year": 1957
+    },
+    "Live at Leeds": {
+        "Artist": "The Who",
+        "Genres": [
+            "Hard Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/b49687ec6d0eadb3685b08f09d684c37/2576978/The%20Who%20-%20Live%20at%20Leeds%2C%20Cover%20art.jpeg",
+        "Rank": 422,
+        "Year": 1970
+    },
+    "Requiem": {
+        "Artist": "Wolfgang Amadeus Mozart",
+        "Genres": [
+            "Choral",
+            "Classical Period",
+            "Requiem"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/7e4939b3deea0220e24f5a8970dfbcc9/10332118/Wiener%20Philharmoniker%20%2F%20Konzertvereinigung%20Wiener%20Staatsopernchor%20%2F%20Karl%20B%C3%B6hm%20%2F%20Edith%20Mathis%20%2F%20J%C3%BAlia%20Hamari%20%2F%20Wies%C5%82aw%20Ochman%20%2F%20Karl%20Ridderbusch%20-%20Requiem%2C%20Cover%20art.jpeg",
+        "Rank": 423,
+        "Year": 1971
+    },
+    "Houses of the Holy": {
+        "Artist": "Led Zeppelin",
+        "Genres": [
+            "Hard Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/cf7002db35460a343898fc05756a86b9/1250250/Led%20Zeppelin%20-%20Houses%20of%20the%20Holy%2C%20Cover%20art.jpeg",
+        "Rank": 424,
+        "Year": 1973
+    },
+    "I Can Hear the Heart Beating as One": {
+        "Artist": "Yo La Tengo",
+        "Genres": [
+            "Indie Rock",
+            "Noise Pop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/c6cd5be469de7cf92642a0d15005ac4b/8674116/Yo%20La%20Tengo%20-%20I%20Can%20Hear%20the%20Heart%20Beating%20as%20One%2C%20Cover%20art.jpeg",
+        "Rank": 425,
+        "Year": 1997
+    },
+    "Double Nickels on the Dime": {
+        "Artist": "Minutemen",
+        "Genres": [
+            "Art Punk",
+            "Post-Hardcore",
+            "Post-Punk"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/c8f656ed478d6e25b56ac9691b6c3ef6/2500933/Minutemen%20-%20Double%20Nickels%20on%20the%20Dime%2C%20Cover%20art.jpeg",
+        "Rank": 426,
+        "Year": 1984
+    },
+    "There's a Riot Goin' On": {
+        "Artist": "Sly &amp; The Family Stone",
+        "Genres": [
+            "Funk",
+            "Psychedelic Soul"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/deaeea03094514c50ff224ada4c62a3a/6123498/Sly%20%26%20The%20Family%20Stone%20-%20There's%20a%20Riot%20Goin'%20On%2C%20Cover%20art.jpeg",
+        "Rank": 427,
+        "Year": 1971
+    },
+    "África Brasil": {
+        "Artist": "Jorge Ben",
+        "Genres": [
+            "Funk",
+            "MPB",
+            "Samba-rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/a4c218e68d99b88a2ec061c374b0829d/2528338/Jorge%20Ben%20-%20%C3%81frica%20Brasil%2C%20Cover%20art.jpeg",
+        "Rank": 428,
+        "Year": 1976
+    },
+    "The 6 String Quartets": {
+        "Artist": "Béla Bartók",
+        "Genres": [
+            "Chamber Music",
+            "Modern Classical"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/b69ea561f6f975494b47a6d698b4825e/2191840/Tak%C3%A1cs%20Quartet%20-%20The%206%20String%20Quartets%2C%20Cover%20art.jpeg",
+        "Rank": 429,
+        "Year": 1997
+    },
+    "The Dark Side of the Moon - Live at Wembley Empire Pool, London, 1974": {
+        "Artist": "Pink Floyd",
+        "Genres": [
+            "Art Rock",
+            "Progressive Rock",
+            "Psychedelic Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/a601f09a4ecf8a7c51ab8b7545972b9e/10625927/Pink%20Floyd%20-%20The%20Dark%20Side%20of%20the%20Moon%20-%20Live%20at%20Wembley%20Empire%20Pool%2C%20London%2C%201974%2C%20Cover%20art.png",
+        "Rank": 430,
+        "Year": 2023
+    },
+    "Emergency &amp; I": {
+        "Artist": "The Dismemberment Plan",
+        "Genres": [
+            "Indie Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/6fcec0b82c31de183e4197dd747dc417/3852658/The%20Dismemberment%20Plan%20-%20Emergency%20%26%20I%2C%20Cover%20art.jpeg",
+        "Rank": 431,
+        "Year": 1999
+    },
+    "Machine Head": {
+        "Artist": "Deep Purple",
+        "Genres": [
+            "Hard Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/9422bea9f6a9a7ccaca07fab7461e721/2700151/Deep%20Purple%20-%20Machine%20Head%2C%20Cover%20art.jpeg",
+        "Rank": 432,
+        "Year": 1972
+    },
+    "The Goldberg Variations": {
+        "Artist": "Johann Sebastian Bach",
+        "Genres": [
+            "Baroque Music"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/7e91d4d1b10fd43ba02a4bbae6ee10c0/2215801/Glenn%20Gould%20-%20The%20Goldberg%20Variations%2C%20Cover%20art.jpeg",
+        "Rank": 433,
+        "Year": 1982
+    },
+    "A Blaze in the Northern Sky": {
+        "Artist": "Darkthrone",
+        "Genres": [
+            "Black Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/1b1e345591f1c3d34fae0ad7103c1a70/3051256/Darkthrone%20-%20A%20Blaze%20in%20the%20Northern%20Sky%2C%20Cover%20art.jpeg",
+        "Rank": 434,
+        "Year": 1992
+    },
+    "Youth of America": {
+        "Artist": "Wipers",
+        "Genres": [
+            "Post-Punk",
+            "Punk Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/c97bbff8789d5afa1819e1e84a70f542/3611801/Wipers%20-%20Youth%20of%20America%2C%20Cover%20art.jpeg",
+        "Rank": 435,
+        "Year": 1981
+    },
+    "Close to a World Below": {
+        "Artist": "Immolation",
+        "Genres": [
+            "Death Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/160ee38681bf45a1a21bd826ee149ca3/2910900/Immolation%20-%20Close%20to%20a%20World%20Below%2C%20Cover%20art.jpeg",
+        "Rank": 436,
+        "Year": 2000
+    },
+    "Sister": {
+        "Artist": "Sonic Youth",
+        "Genres": [
+            "Alternative Rock",
+            "Noise Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/0f23296918a30f4216a9d721c307c7f2/3829718/Sonic%20Youth%20-%20Sister%2C%20Cover%20art.jpeg",
+        "Rank": 437,
+        "Year": 1987
+    },
+    "Juju": {
+        "Artist": "Siouxsie and The Banshees",
+        "Genres": [
+            "Gothic Rock",
+            "Post-Punk"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/940bb5be83bc13e260b70af169ecc27f/10887293/Siouxsie%20and%20The%20Banshees%20-%20Juju%2C%20Cover%20art.jpeg",
+        "Rank": 438,
+        "Year": 1981
+    },
+    "You're Living All Over Me": {
+        "Artist": "Dinosaur",
+        "Genres": [
+            "Indie Rock",
+            "Noise Rock",
+            "Slacker Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/f3a92dffc1f6912a2565fa2c15c0e852/3831157/Dinosaur%20-%20You're%20Living%20All%20Over%20Me%2C%20Cover%20art.jpeg",
+        "Rank": 439,
+        "Year": 1987
+    },
+    "Exuma": {
+        "Artist": "Exuma",
+        "Genres": [
+            "Caribbean Folk Music",
+            "Psychedelic Folk"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e72f460bf2fe4ba8a41e276c7c8a279c/6147820/Exuma%20-%20Exuma%2C%20Cover%20art.jpeg",
+        "Rank": 440,
+        "Year": 1970
+    },
+    "Superfly": {
+        "Artist": "Curtis Mayfield",
+        "Genres": [
+            "Chicago Soul",
+            "Film Soundtrack",
+            "Funk"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/92f11308b809d80d2fc6b181c1fdf387/1838069/Curtis%20Mayfield%20-%20Superfly%2C%20Cover%20art.jpeg",
+        "Rank": 441,
+        "Year": 1972
+    },
+    "Ghost Reveries": {
+        "Artist": "Opeth",
+        "Genres": [
+            "Progressive Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/861611d80a22e21af82cf4bb20743cba/5904546/Opeth%20-%20Ghost%20Reveries%2C%20Cover%20art.jpeg",
+        "Rank": 442,
+        "Year": 2005
+    },
+    "Mothership Connection": {
+        "Artist": "Parliament",
+        "Genres": [
+            "P-Funk"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/40a805c33b8b97f2fcd816d145faac54/1955587/Parliament%20-%20Mothership%20Connection%2C%20Cover%20art.jpeg",
+        "Rank": 443,
+        "Year": 1975
+    },
+    "Symphony No. 9 'From the New World'": {
+        "Artist": "Antonín Dvořák",
+        "Genres": [
+            "Romanticism",
+            "Symphony"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/470076f6987a72350ee2489a5a394c94/8374355/Chicago%20Symphony%20Orchestra%20%2F%20Georg%20Solti%20-%20Symphony%20No_%209%20'From%20the%20New%20World'%2C%20Cover%20art.jpeg",
+        "Rank": 444,
+        "Year": 1984
+    },
+    "The Soft Bulletin": {
+        "Artist": "The Flaming Lips",
+        "Genres": [
+            "Neo-Psychedelia",
+            "Psychedelic Pop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/1add28bda70b87cfe1af6b5a6bcc40bd/6381710/The%20Flaming%20Lips%20-%20The%20Soft%20Bulletin%2C%20Cover%20art.png",
+        "Rank": 445,
+        "Year": 1999
+    },
+    "Crack the Skye": {
+        "Artist": "Mastodon",
+        "Genres": [
+            "Progressive Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/4c949f5b814440e2e9180b757cb00c24/2553941/Mastodon%20-%20Crack%20the%20Skye%2C%20Cover%20art.jpeg",
+        "Rank": 446,
+        "Year": 2009
+    },
+    "Just Got Back From the Discomfort—We're Alright": {
+        "Artist": "The Brave Little Abacus",
+        "Genres": [
+            "Experimental Rock",
+            "Midwest Emo"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/1d963c62227c79837da2963bbd9d5704/8247001/The%20Brave%20Little%20Abacus%20-%20Just%20Got%20Back%20From%20the%20Discomfort%E2%80%94We're%20Alright%2C%20Cover%20art.jpeg",
+        "Rank": 447,
+        "Year": 2010
+    },
+    "Hemispheres": {
+        "Artist": "Rush",
+        "Genres": [
+            "Hard Rock",
+            "Progressive Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/f04641704db24d2f5ccd3592b6ac6edb/2811498/Rush%20-%20Hemispheres%2C%20Cover%20art.jpeg",
+        "Rank": 448,
+        "Year": 1978
+    },
+    "A Charlie Brown Christmas": {
+        "Artist": "Ludwig van Beethoven",
+        "Genres": [
+            "Christmas Music",
+            "Cool Jazz",
+            "Television Music"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/571f032a70f22e306dc8ab0631bcae36/7400771/Vince%20Guaraldi%20-%20A%20Charlie%20Brown%20Christmas%2C%20Cover%20art.jpeg",
+        "Rank": 449,
+        "Year": 1965
+    },
+    "Mama's Gun": {
+        "Artist": "Erykah Badu",
+        "Genres": [
+            "Neo-Soul"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/4d19c0f1cb463cc52a9bbfcb7aabc7e5/2062083/Erykah%20Badu%20-%20Mama's%20Gun%2C%20Cover%20art.jpeg",
+        "Rank": 450,
+        "Year": 2000
+    },
+    "Live / 1975-85": {
+        "Artist": "Bruce Springsteen",
+        "Genres": [
+            "Heartland Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/5508f71b08df200777ad240d8650445a/1828705/Bruce%20Springsteen%20%26%20The%20E%20Street%20Band%20-%20Live%20%2F%201975-85%2C%20Cover%20art.jpeg",
+        "Rank": 451,
+        "Year": 1986
+    },
+    "勝訴ストリップ (Shōso Strip)": {
+        "Artist": "椎名林檎",
+        "Genres": [
+            "Art Pop",
+            "J-Rock",
+            "Noise Pop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/56726016913ccea620e90ed454924e7d/9884994/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%20%5BSheena%20Ringo%5D%20-%20%E5%8B%9D%E8%A8%B4%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%20(Sh%C5%8Dso%20Strip)%2C%20Cover%20art.jpeg",
+        "Rank": 452,
+        "Year": 2000
+    },
+    "Symphonie No. 9 / Moldau": {
+        "Artist": "Antonín Dvořák",
+        "Genres": [
+            "Romanticism",
+            "Symphony"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/70dd8fea8f481203a216157da1f96ce4/5914378/Wiener%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20Symphonie%20No_%209%20%2F%20Moldau%2C%20Cover%20art.jpeg",
+        "Rank": 453,
+        "Year": 1985
+    },
+    "Songs From the Big Chair": {
+        "Artist": "Tears for Fears",
+        "Genres": [
+            "New Wave",
+            "Synthpop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e0aef76339886b7dc55640abe6312c88/2758916/Tears%20for%20Fears%20-%20Songs%20From%20the%20Big%20Chair%2C%20Cover%20art.jpeg",
+        "Rank": 454,
+        "Year": 1985
+    },
+    "Deltron 3030": {
+        "Artist": "Deltron 3030",
+        "Genres": [
+            "Abstract Hip Hop",
+            "Experimental Hip Hop",
+            "West Coast Hip Hop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/a835077354ffd8c70db2b0c4c6df77b8/10699446/Deltron%203030%20-%20Deltron%203030%2C%20Cover%20art.jpeg",
+        "Rank": 455,
+        "Year": 2000
+    },
+    "Rising": {
+        "Artist": "Rainbow",
+        "Genres": [
+            "Hard Rock",
+            "Heavy Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e11d440fae5cb09bc3b17c8e953d9a47/2499882/Rainbow%20-%20Rising%2C%20Cover%20art.jpeg",
+        "Rank": 456,
+        "Year": 1976
+    },
+    "Anthems to the Welkin at Dusk": {
+        "Artist": "Emperor",
+        "Genres": [
+            "Symphonic Black Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/3ebbfa773a795ec70915273ff2e18338/2608804/Emperor%20-%20Anthems%20to%20the%20Welkin%20at%20Dusk%2C%20Cover%20art.jpeg",
+        "Rank": 457,
+        "Year": 1997
+    },
+    "Love in Us All": {
+        "Artist": "Pharoah Sanders",
+        "Genres": [
+            "Free Jazz",
+            "Spiritual Jazz"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/9f41d07f9142dc76206451fd3f4f96d6/7454776/Pharoah%20Sanders%20-%20Love%20in%20Us%20All%2C%20Cover%20art.jpeg",
+        "Rank": 458,
+        "Year": 1974
+    },
+    "Dick's Picks Volume Eight: Harpur College, Binghamton, NY, May 2, 1970": {
+        "Artist": "Grateful Dead",
+        "Genres": [
+            "Folk Rock",
+            "Jam Band",
+            "Psychedelic Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/3b6ed16f04a0c8dcb3fa161ab50c40e8/9931758/Grateful%20Dead%20-%20Dick's%20Picks%20Volume%20Eight%3A%20Harpur%20College%2C%20Binghamton%2C%20NY%2C%20May%202%2C%201970%2C%20Cover%20art.jpeg",
+        "Rank": 459,
+        "Year": 1997
+    },
+    "Matthäus-Passion": {
+        "Artist": "Johann Sebastian Bach",
+        "Genres": [
+            "Baroque Music",
+            "Christian Liturgical Music",
+            "Oratorio"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/8d66c9583d838abe046760bb38a3aefe/6230090/Collegium%20Vocale%20Gent%20%2F%20Philippe%20Herreweghe%20%2F%20Ian%20Bostridge%20%2F%20Franz-Josef%20Selig%20%2F%20Sibylla%20Rubens%20%2F%20Andreas%20Scholl%20%2F%20Werner%20G%C3%BCra%20%2F%20Dietrich%20Henschel%20-%20Matth%C3%A4us-Passion%2C%20Cover%20art.jpeg",
+        "Rank": 460,
+        "Year": 1999
+    },
+    "Comfort y música para volar": {
+        "Artist": "Soda Stereo",
+        "Genres": [
+            "Alternative Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/ea3c4bbba8698856abe2a922e84e1b7e/5677728/Soda%20Stereo%20-%20Comfort%20y%20m%C3%BAsica%20para%20volar%2C%20Cover%20art.jpeg",
+        "Rank": 461,
+        "Year": 1996
+    },
+    "This Is Happening": {
+        "Artist": "LCD Soundsystem",
+        "Genres": [
+            "Alternative Dance",
+            "Dance-Punk",
+            "Indietronica"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/bbb730ff02cf053bc494e1ea4fcb9b44/8598213/LCD%20Soundsystem%20-%20This%20Is%20Happening%2C%20Cover%20art.jpeg",
+        "Rank": 462,
+        "Year": 2010
+    },
+    "Teens of Denial": {
+        "Artist": "Car Seat Headrest",
+        "Genres": [
+            "Indie Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/fd2a6d204ee9067e6c1bc04ffff65f10/8053283/Car%20Seat%20Headrest%20-%20Teens%20of%20Denial%2C%20Cover%20art.jpeg",
+        "Rank": 463,
+        "Year": 2016
+    },
+    "Individual Thought Patterns": {
+        "Artist": "Death",
+        "Genres": [
+            "Technical Death Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/72d90c33d2253f95bd0c12f80f933842/10703230/Death%20-%20Individual%20Thought%20Patterns%2C%20Cover%20art.jpeg",
+        "Rank": 464,
+        "Year": 1993
+    },
+    "The Argument": {
+        "Artist": "Fugazi",
+        "Genres": [
+            "Indie Rock",
+            "Post-Hardcore"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/202a3cce2ce3c51d0096f10737fdcd64/2039201/Fugazi%20-%20The%20Argument%2C%20Cover%20art.jpeg",
+        "Rank": 465,
+        "Year": 2001
+    },
+    "In the Nightside Eclipse": {
+        "Artist": "Emperor",
+        "Genres": [
+            "Black Metal",
+            "Symphonic Black Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/a181440f89ee9a4be4160d480783c880/5805102/Emperor%20-%20In%20the%20Nightside%20Eclipse%2C%20Cover%20art.jpeg",
+        "Rank": 466,
+        "Year": 1994
+    },
+    "MTV Unplugged": {
+        "Artist": "Alice in Chains",
+        "Genres": [
+            "Acoustic Rock",
+            "Grunge"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/545d97bc42e2a6ab2603c17120622302/9615725/Alice%20in%20Chains%20-%20MTV%20Unplugged%2C%20Cover%20art.jpeg",
+        "Rank": 467,
+        "Year": 1996
+    },
+    "Pawn Hearts": {
+        "Artist": "Van der Graaf Generator",
+        "Genres": [
+            "Progressive Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/fcab2f8f6aa68cde9765c6ad4b340a7c/7068832/Van%20der%20Graaf%20Generator%20-%20Pawn%20Hearts%2C%20Cover%20art.jpeg",
+        "Rank": 468,
+        "Year": 1971
+    },
+    "Microphones in 2020": {
+        "Artist": "The Microphones",
+        "Genres": [
+            "Avant-Folk",
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e7f77b4e22e100cf86c44667b2b2eede/8449827/The%20Microphones%20-%20Microphones%20in%202020%2C%20Cover%20art.jpeg",
+        "Rank": 469,
+        "Year": 2020
+    },
+    "Stravinsky Conducts Le sacre du printemps": {
+        "Artist": "Igor Stravinsky",
+        "Genres": [
+            "Ballet",
+            "Modern Classical",
+            "Orchestral"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/b0dc92ed969adcf0248ffcf38da6f7c7/3117450/Columbia%20Symphony%20Orchestra%20%2F%20Igor%20Stravinsky%20-%20Stravinsky%20Conducts%20Le%20sacre%20du%20printemps%2C%20Cover%20art.jpeg",
+        "Rank": 470,
+        "Year": 1961
+    },
+    "Different Class": {
+        "Artist": "Pulp",
+        "Genres": [
+            "Britpop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/6dff4574d9bf5963e34b61937b0a02f5/2109326/Pulp%20-%20Different%20Class%2C%20Cover%20art.jpeg",
+        "Rank": 471,
+        "Year": 1995
+    },
+    "渋星 (Shibuboshi)": {
+        "Artist": "渋さ知らズ",
+        "Genres": [
+            "Experimental Big Band",
+            "Jazz Fusion"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e82529b6e14fd26d2344d2a8856866b8/10084126/%E6%B8%8B%E3%81%95%E7%9F%A5%E3%82%89%E3%82%BA%20%5BShibusashirazu%5D%20-%20%E6%B8%8B%E6%98%9F%20(Shibuboshi)%2C%20Cover%20art.jpeg",
+        "Rank": 472,
+        "Year": 2004
+    },
+    "Yank Crime": {
+        "Artist": "Drive Like Jehu",
+        "Genres": [
+            "Math Rock",
+            "Noise Rock",
+            "Post-Hardcore"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/a8f62f0dad3d851aa809abb5c3a3df15/2608267/Drive%20Like%20Jehu%20-%20Yank%20Crime%2C%20Cover%20art.jpeg",
+        "Rank": 473,
+        "Year": 1994
+    },
+    "Rétrospective Vol. 1 &amp; 2": {
+        "Artist": "Magma",
+        "Genres": [
+            "Zeuhl"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/d5257860de025214bf13712418bb0c0b/1863342/Magma%20-%20R%C3%A9trospective%20Vol_%201%20%26%202%2C%20Cover%20art.jpeg",
+        "Rank": 474,
+        "Year": 1981
+    },
+    "Live in Chicago": {
+        "Artist": "Ween",
+        "Genres": [
+            "Alternative Rock",
+            "Art Rock",
+            "Psychedelic Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/4c162df0e3b0866f27dd484a2824203a/4238034/Ween%20-%20Live%20in%20Chicago%2C%20Cover%20art.jpeg",
+        "Rank": 475,
+        "Year": 2004
+    },
+    "Plastic Beach": {
+        "Artist": "Gorillaz",
+        "Genres": [
+            "Art Pop",
+            "Electropop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/6cc51c16ebdae0664ab4eeeb9e49327e/3016778/Gorillaz%20-%20Plastic%20Beach%2C%20Cover%20art.jpeg",
+        "Rank": 476,
+        "Year": 2010
+    },
+    "The Glowing Man": {
+        "Artist": "Swans",
+        "Genres": [
+            "Experimental Rock",
+            "Post-Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/30cda756ab1fa603e9af24577f7a845f/8591703/Swans%20-%20The%20Glowing%20Man%2C%20Cover%20art.jpeg",
+        "Rank": 477,
+        "Year": 2016
+    },
+    "John Lennon / Plastic Ono Band": {
+        "Artist": "John Lennon",
+        "Genres": [
+            "Pop Rock",
+            "Singer-Songwriter"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/7a0957ee7489193b7adc802ee867b4d9/1593979/John%20Lennon%20%2F%20Plastic%20Ono%20Band%20-%20John%20Lennon%20%2F%20Plastic%20Ono%20Band%2C%20Cover%20art.jpeg",
+        "Rank": 478,
+        "Year": 1970
+    },
+    "Aethiopes": {
+        "Artist": "billy woods",
+        "Genres": [
+            "Abstract Hip Hop",
+            "East Coast Hip Hop",
+            "Experimental Hip Hop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/f7ee830cbb10337d4f1d0c98d348b56f/9858657/billy%20woods%20-%20Aethiopes%2C%20Cover%20art.jpeg",
+        "Rank": 479,
+        "Year": 2022
+    },
+    "Red House Painters [Rollercoaster]": {
+        "Artist": "Red House Painters",
+        "Genres": [
+            "Slowcore"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/af697ec4f1d0a39e4a3190a1cb44ca85/10259571/Red%20House%20Painters%20-%20Red%20House%20Painters%20%5BRollercoaster%5D%2C%20Cover%20art.jpeg",
+        "Rank": 480,
+        "Year": 1993
+    },
+    "King Tubbys Meets Rockers Uptown": {
+        "Artist": "Agustus Pablo",
+        "Genres": [
+            "Dub"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/2dad21590bbabaf7d884dd2a7550d6d6/4918932/Agustus%20Pablo%20-%20King%20Tubbys%20Meets%20Rockers%20Uptown%2C%20Cover%20art.jpeg",
+        "Rank": 481,
+        "Year": 1977
+    },
+    "Vision Creation Newsun": {
+        "Artist": "Boredoms",
+        "Genres": [
+            "Experimental Rock",
+            "Neo-Psychedelia",
+            "Psychedelic Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/c81f4e655192ceddf71fd1c06d46aca3/2529373/Boredoms%20-%20Vision%20Creation%20Newsun%2C%20Cover%20art.jpeg",
+        "Rank": 482,
+        "Year": 1999
+    },
+    "California": {
+        "Artist": "Mr. Bungle",
+        "Genres": [
+            "Art Rock",
+            "Experimental Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/ae192b0b2e2d037c0592885bd58cfd8e/9129391/Mr_%20Bungle%20-%20California%2C%20Cover%20art.jpeg",
+        "Rank": 483,
+        "Year": 1999
+    },
+    "Beggars Banquet": {
+        "Artist": "The Rolling Stones",
+        "Genres": [
+            "Roots Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/87e1812931e5516202c37e0f7b4670dc/2576317/The%20Rolling%20Stones%20-%20Beggars%20Banquet%2C%20Cover%20art.jpeg",
+        "Rank": 484,
+        "Year": 1968
+    },
+    "Mos Def &amp; Talib Kweli Are Black Star": {
+        "Artist": "Black Star",
+        "Genres": [
+            "Boom Bap",
+            "Conscious Hip Hop",
+            "East Coast Hip Hop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e0b40ee8f89f9ca0e85ae9caf433051a/3075687/Black%20Star%20-%20Mos%20Def%20%26%20Talib%20Kweli%20Are%20Black%20Star%2C%20Cover%20art.jpeg",
+        "Rank": 485,
+        "Year": 1998
+    },
+    "The Dance of the Moon and the Sun": {
+        "Artist": "Natural Snow Buildings",
+        "Genres": [
+            "Avant-Folk",
+            "Drone",
+            "Psychedelic Folk"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/452c6654ab17ad96696575d37b7de637/5322298/Natural%20Snow%20Buildings%20-%20The%20Dance%20of%20the%20Moon%20and%20the%20Sun%2C%20Cover%20art.png",
+        "Rank": 486,
+        "Year": 2006
+    },
+    "Live at the Fillmore East": {
+        "Artist": "Neil Young",
+        "Genres": [
+            "Country Rock",
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/71a479ef0325d2f7b31309e5fda79333/1746728/Neil%20Young%20%26%20Crazy%20Horse%20-%20Live%20at%20the%20Fillmore%20East%2C%20Cover%20art.jpeg",
+        "Rank": 487,
+        "Year": 2006
+    },
+    "Murmur": {
+        "Artist": "R.E.M.",
+        "Genres": [
+            "Alternative Rock",
+            "Jangle Pop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/80dcd276d7233753ebf61ac9cdc8c884/8050085/R_E_M_%20-%20Murmur%2C%20Cover%20art.jpeg",
+        "Rank": 488,
+        "Year": 1983
+    },
+    "Fillmore West 1969: The Complete Recordings": {
+        "Artist": "Grateful Dead",
+        "Genres": [
+            "Blues Rock",
+            "Jam Band",
+            "Psychedelic Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/2ae3a9cf32db56c3b32d5b5377952f54/9929444/Grateful%20Dead%20-%20Fillmore%20West%201969%3A%20The%20Complete%20Recordings%2C%20Cover%20art.jpeg",
+        "Rank": 489,
+        "Year": 2005
+    },
+    "Aqualung": {
+        "Artist": "Jethro Tull",
+        "Genres": [
+            "Progressive Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/2f15aa1eba3c833802d6d746170d3700/9337494/Jethro%20Tull%20-%20Aqualung%2C%20Cover%20art.jpeg",
+        "Rank": 490,
+        "Year": 1971
+    },
+    "Sleeping Beauty": {
+        "Artist": "Sun Ra and His Arkestra",
+        "Genres": [
+            "Jazz Fusion",
+            "Spiritual Jazz"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/7a62776ec9b8f2ad6755cad9f49c003b/6380040/Sun%20Ra%20and%20His%20Arkestra%20-%20Sleeping%20Beauty%2C%20Cover%20art.jpeg",
+        "Rank": 491,
+        "Year": 1979
+    },
+    "The Nightwatch: Live at the Amsterdam Concertgebouw November 23rd 1973": {
+        "Artist": "King Crimson",
+        "Genres": [
+            "Progressive Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/7f7f8f4b4e62714711f7ccc8e3d22e7e/6318470/King%20Crimson%20-%20The%20Nightwatch%3A%20Live%20at%20the%20Amsterdam%20Concertgebouw%20November%2023rd%201973%2C%20Cover%20art.jpeg",
+        "Rank": 492,
+        "Year": 1997
+    },
+    "Bloom": {
+        "Artist": "Beach House",
+        "Genres": [
+            "Dream Pop",
+            "Indie Pop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e0212e38a22ceec03dd6dc3776a97a51/4130381/Beach%20House%20-%20Bloom%2C%20Cover%20art.jpeg",
+        "Rank": 493,
+        "Year": 2012
+    },
+    "A I A: Alien Observer": {
+        "Artist": "Grouper",
+        "Genres": [
+            "Ambient"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/56c9df7917b885cc229dd74bf6246671/10085931/Grouper%20-%20A%20I%20A%3A%20Alien%20Observer%2C%20Cover%20art.jpeg",
+        "Rank": 494,
+        "Year": 2011
+    },
+    "Ashes Against the Grain": {
+        "Artist": "Agalloch",
+        "Genres": [
+            "Atmospheric Black Metal",
+            "Post-Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/b9d41761ab1e6a7775f42019e6bf9a2e/8976907/Agalloch%20-%20Ashes%20Against%20the%20Grain%2C%20Cover%20art.png",
+        "Rank": 495,
+        "Year": 2006
+    },
+    "'77 Live": {
+        "Artist": "Les Rallizes Dénudés",
+        "Genres": [
+            "Noise Rock",
+            "Psychedelic Rock"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/ead61e0a30e3650d2e6ed9949bf32325/3046487/Les%20Rallizes%20D%C3%A9nud%C3%A9s%20-%20'77%20Live%2C%20Cover%20art.jpeg",
+        "Rank": 496,
+        "Year": 1991
+    },
+    "Operation: Doomsday": {
+        "Artist": "MF DOOM",
+        "Genres": [
+            "Abstract Hip Hop",
+            "East Coast Hip Hop"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/1ec595b856a52a22238ff6078371a21e/1259326/MF%20DOOM%20-%20Operation%3A%20Doomsday%2C%20Cover%20art.jpeg",
+        "Rank": 497,
+        "Year": 1999
+    },
+    "From Mars to Sirius": {
+        "Artist": "Gojira",
+        "Genres": [
+            "Death Metal",
+            "Progressive Metal"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/7182da7e42c751439cbc7792a5631989/6128994/Gojira%20-%20From%20Mars%20to%20Sirius%2C%20Cover%20art.jpeg",
+        "Rank": 498,
+        "Year": 2005
+    },
+    "New Plastic Ideas": {
+        "Artist": "Unwound",
+        "Genres": [
+            "Noise Rock",
+            "Post-Hardcore"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/e0538973a8790c007168acd7debe215c/5831325/Unwound%20-%20New%20Plastic%20Ideas%2C%20Cover%20art.jpeg",
+        "Rank": 499,
+        "Year": 1994
+    },
+    "Tango: Zero Hour / Nuevo Tango: Hora Zero": {
+        "Artist": "Astor Piazzolla and The New Tango Quintet",
+        "Genres": [
+            "Tango nuevo"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/769795413397f358a5eb9e0a6868d95d/4816419/Astor%20Piazzolla%20and%20The%20New%20Tango%20Quintet%20-%20Tango%3A%20Zero%20Hour%20%2F%20Nuevo%20Tango%3A%20Hora%20Zero%2C%20Cover%20art.jpeg",
+        "Rank": 500,
+        "Year": 1986
     }
 }

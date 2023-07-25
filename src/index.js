@@ -1,9 +1,7 @@
-import { newAlbum, colorMode } from './data.js';
+import { newAlbum, colorMode, markAsListened } from './data.js';
 window.newAlbum = newAlbum;
 window.colorMode = colorMode;
 
 document.getElementById("album-cover").addEventListener("click", newAlbum);
-document.getElementById("album-cover").addEventListener("touchend", newAlbum);
-
 document.getElementById("logo").addEventListener("click", colorMode);
-document.getElementById("logo").addEventListener("touchend", colorMode);
+// document.getElementById("album-name").addEventListener("click", markAsListened);

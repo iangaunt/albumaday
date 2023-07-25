@@ -8,6 +8,7 @@
 
 :root {
     --white: rgb(255, 255, 255);
+    --grey: rgba(116, 116, 116, 0.116);
     --black: rgb(0, 0, 0);
     --black-tns: rgba(0 0 0 / 0.5);
     --green: rgb(64, 112, 64);
@@ -45,6 +46,10 @@
     body {
         background: var(--white);
     }
+
+    hr {
+        opacity: 0;
+    }
 }
 
 header {
@@ -57,7 +62,6 @@ header {
         aspect-ratio: 1;
         transition: transform 0.6s;
         width: 50px;
-        z-index: 100;
 
         &:hover {
             transform: rotateZ(360deg);
@@ -98,12 +102,11 @@ main {
             box-shadow: 0 0 80px var(--black-tns);
             transition: border-radius 0.4s, box-shadow 0.6s, filter 0.4s, transform 0.4s;
             width: 100%;
-            z-index: 100;
 
             &:hover {
                 border-radius: 3%;
                 box-shadow: 0 0 60px var(--black-tns);
-                filter: saturate(50%);
+                filter: saturate(40%);
             }
         }
 
@@ -133,6 +136,7 @@ main {
     } 
 
     h1 {
+        transition: color 0.6s;
         padding-top: 15px;
     }
 
@@ -145,6 +149,34 @@ main {
         span {
             color: var(--green);
             font-size: 120%;
+        }
+    }
+}
+
+.rules {
+    @include flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    left: 10px;
+    position: absolute;
+    top: 12%;
+
+    div {
+        @include flex;
+        align-items: flex-start;
+        flex-direction: row;
+
+        input {
+            appearance: none;
+            border: none;
+            border-radius: 5px;
+            background: var(--grey);
+            width: 100px
+        }
+    
+        p {
+            padding-right: 10px;
         }
     }
 }
