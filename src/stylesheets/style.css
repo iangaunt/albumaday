@@ -139,4 +139,16 @@ main h3 {
 main h3 span {
   color: var(--green);
   font-size: 120%;
+}
+
+.spider {
+  bottom: 10px;
+  height: 100px;
+  left: 10px;
+  width: 100px;
+  opacity: 0;
+  position: absolute;
+}
+.spider:hover {
+  opacity: 1;
 }/*# sourceMappingURL=style.css.map */
