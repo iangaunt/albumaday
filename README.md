@@ -1,4 +1,6 @@
-# albumaday: Album A Day
+# iangaunt/web-skeleton
 
-Album A Day is a website I designed to give you a random album from the RateYourMusic charts. Pick your favorites, or try to find them.
-See what kind of music you can find. Made in about 5 hours.
+A very basic webpage backbone in order to create a simple website using a Sass-TypeScript-ESLint-React toolchain. The provided `package.json` file contains linting for SCSS and TypeScript files.
+
+For simple cloning of the repo, run:
+```git clone https://github.com/iangaunt/web-skeleton.git```

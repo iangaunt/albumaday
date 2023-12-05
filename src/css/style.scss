@@ -1,0 +1,32 @@
+@import "https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap";
+
+@mixin flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+$black: #001011;
+$grey: #6E7271;
+$white: #FFFFFC;
+$green: #27FB6B;
+$d-green: #14CC60;
+
+* {
+    font-family: "Rubik", sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+main .container {
+    @include flex;
+
+    height: 100vh;
+    width: 100vw;
+
+    #album {
+        aspect-ratio: 1;
+        height: 60vh;
+    }
+}

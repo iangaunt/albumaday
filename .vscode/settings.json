@@ -7,7 +7,8 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
 
-        "**/*.css": false,
-        "**/*.css.map": true
+        "node_modules": true,
+        "**/*.css.map": true,
+        "*/css/**.css": true
     }
 }
