@@ -1,6 +1,7 @@
 @import "https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap";
 * {
   font-family: "Rubik", sans-serif;
+  font-size: 20px;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -10,10 +11,37 @@ main .container {
   display: flex;
   justify-content: center;
   align-items: center;
+  background: #FFFFFC;
+  flex-direction: column;
   height: 100vh;
+  position: relative;
   width: 100vw;
 }
 main .container #album {
   aspect-ratio: 1;
-  height: 60vh;
+  box-shadow: 0px 0px 20px #001011;
+  margin-bottom: 10px;
+  height: 50vh;
+}
+main .container #album::before {
+  aspect-ratio: 1;
+  background: red;
+  content: "";
+  left: 100px;
+  height: 50vh;
+}
+main .container #description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-weight: 300;
+  height: 20vh;
+  width: 60vh;
+}
+main .container #description #title, main .container #description #artist {
+  font-size: 120%;
+}
+main .container #description #artist, main .container #description #genres {
+  margin-bottom: 10px;
 }/*# sourceMappingURL=style.css.map */

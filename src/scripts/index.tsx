@@ -6,17 +6,15 @@ import { createRoot } from "react-dom/client";
 function Header() {
     return (
         <div className="container">
-            <div id="album"></div>
+            <img id="album"></img>
             <div id="description">
-                <h1 id="title"></h1>
+                <b><p id="title">Title</p></b>
+                <p id="artist">Artist</p>
+                <p id="genres">Genres</p>
+                <p id="ranking">Ranking</p>
             </div>
         </div>
     )
 }
 
 createRoot(document.getElementById("main")).render(Header());
-
-function hello() {
-    return "Hello!";
-}
-console.log(hello());
