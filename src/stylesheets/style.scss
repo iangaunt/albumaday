@@ -111,6 +111,7 @@ main {
         }
 
         &:hover {
+
             img {
                 transform: rotateZ(2deg);
             }
@@ -120,7 +121,8 @@ main {
             }
         }
 
-        &::after {          
+        &::after {     
+            -webkit-text-stroke: 1px rgb(0 0 0 / 0.2);     
             content: "New record?";
             color: white;
             display: block;

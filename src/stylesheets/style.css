@@ -118,6 +118,7 @@ main div:hover::after {
   opacity: 1;
 }
 main div::after {
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
   content: "New record?";
   color: white;
   display: block;

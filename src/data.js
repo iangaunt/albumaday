@@ -25,7 +25,10 @@ for (let i = 0; i < keys.length; i++) {
 for (let i = 0; i < keys.length; i++) {
     let img = new Image();
     img.src = albums[keys[i]]["Image"];
+
+    document.getElementById("album-name").innerHTML = "Loading images: " + i + "/" + keys.length;
 }
+document.getElementById("album-name").innerHTML = "Loading images: " + keys.length + "/" + keys.length;
 
 // Fetch the albums that the user has marked as "listened to".
 let listenedTo = localStorage.getItem("listenedTo");
@@ -82,7 +85,7 @@ function colorMode() {
     let root = document.querySelector(':root').style;
 
     if (darkMode) {
-        root.setProperty("--white", "rgb(42, 41, 48)")
+        root.setProperty("--white", "rgb(33, 37, 43)")
         root.setProperty("--black", "rgb(255, 255, 255");
         root.setProperty("--green", "rgb(127, 226, 127)");
         document.getElementsByClassName("logo")[0].style.filter = "invert(100%)";
