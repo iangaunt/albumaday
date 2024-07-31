@@ -1,5 +1,5 @@
 // Fetch the albums data from the corresponding JSON file.
-import albums from "./albums.json" assert { type: 'json' };
+import albums from "./albums.json" with { type: 'json' };
 
 // Settings for the website.
 let canFlip = true;
@@ -21,12 +21,28 @@ for (let i = 0; i < keys.length; i++) {
     keys[i] = temp;
 }
 
+let recordColors = new Map();
+
+let canvas = document.getElementById("canvas");
+let ctx = canvas.getContext("2d");
+
+let loaded = 0;
+
 // Preload all of the images.
 for (let i = 0; i < keys.length; i++) {
     let img = new Image();
     img.src = albums[keys[i]]["Image"];
+    img.crossOrigin = 'anonymous';
+    
+    img.addEventListener("load", (e) => {
+        loaded++;
+        ctx.drawImage(img, 0, 0, 300, 300);
 
-    document.getElementById("album-name").innerHTML = "Loading images: " + i + "/" + keys.length;
+        let color = ctx.getImageData(100, 100, 1, 1);
+        recordColors.set(keys[i], "rgb(" + color.data[0] + ", " + color.data[1] + ", " + color.data[2] + ")");
+
+        document.getElementById("album-name").innerHTML = "Loading images: " + loaded + "/" + keys.length;
+    });
 }
 document.getElementById("album-name").innerHTML = "Loading images: " + keys.length + "/" + keys.length;
 
@@ -43,7 +59,7 @@ function newAlbum() {
         // Set the boundaries of the albums list.
         let lowerBound = clamp(document.getElementById("range-from").value);
         let upperBound = clamp(document.getElementById("range-to").value);
-        upperBound = upperBound == 1 ? 400 : upperBound;
+        upperBound = upperBound == 1 ? albums.length : upperBound;
 
         if (upperBound < lowerBound) {
             let temp = upperBound;
@@ -53,7 +69,8 @@ function newAlbum() {
 
         // Select a random album from the JSON file.
         let validPicks = keys.slice(lowerBound - 1, upperBound);
-        let random = validPicks[Math.floor(Math.random() * validPicks.length)];
+        let i = Math.floor(Math.random() * validPicks.length);
+        let random = validPicks[i];
 
         let album = albums[random];
         currentAlbum = random;
@@ -62,6 +79,8 @@ function newAlbum() {
         document.getElementById("cover-container").classList.add("spin-animation");
         document.getElementById("text-container").classList.add("fade-animation");
 
+        console.log(random + " : " + recordColors.get(random));
+
         setTimeout(function() {
             // Set corresponding web tags to their respective values with the new album.
             document.getElementById("album-cover").src = album["Image"];
@@ -69,6 +88,8 @@ function newAlbum() {
             document.getElementById("album-release").innerHTML = album["Artist"] + " • " + album["Year"];
             document.getElementById("album-genre").innerHTML = album["Genres"].join(" • ");
             document.getElementById("album-rank").innerHTML = album["Rank"];
+            console.log("background-color: " + recordColors[i]);
+            document.getElementById("record-color").style = "background-color: " + recordColors.get(random);
         }, 400);
         
         // Remove the spinner animation from the card. 

@@ -1,1803 +1,2986 @@
 {
+    "0": {
+        "Artist": "青葉市子",
+        "Genres": [
+            "Contemporary Folk",
+            "Singer-Songwriter"
+        ],
+        "Image": "https://e.snmc.io/i/300/s/ff8bdc0315c5db2685f4f668182a7bae/8329253/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90%20%5BIchiko%20Aoba%5D%20-%200%2C%20Cover%20art.png",
+        "Rank": 250,
+        "Year": 2013
+    },
     "To Pimp a Butterfly": {
         "Artist": "Kendrick Lamar",
-        "Genres": ["Conscious Hip Hop", "Jazz Rap", "West Coast Hip Hop"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "Jazz Rap",
+            "West Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/24619d37493bde1cc35d160e31d170ae/8121875/Kendrick%20Lamar%20-%20To%20Pimp%20a%20Butterfly%2C%20Cover%20art.jpeg",
         "Rank": 1,
         "Year": 2015
-    },"OK Computer": {
+    },
+    "OK Computer": {
         "Artist": "Radiohead",
-        "Genres": ["Alternative Rock", "Art Rock"],
+        "Genres": [
+            "Alternative Rock",
+            "Art Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4b89c6190a18ed4c06d8068c556a5f9e/11993756/Radiohead%20-%20OK%20Computer%2C%20Cover%20art.jpeg",
         "Rank": 2,
         "Year": 1997
-    },"In Rainbows": {
+    },
+    "In Rainbows": {
         "Artist": "Radiohead",
-        "Genres": ["Alternative Rock", "Art Rock"],
+        "Genres": [
+            "Alternative Rock",
+            "Art Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9b1e5b9f0d61d7177b42c31fb881fdc7/5914164/Radiohead%20-%20In%20Rainbows%2C%20Cover%20art.jpeg",
         "Rank": 3,
         "Year": 2007
-    },"Wish You Were Here": {
+    },
+    "Wish You Were Here": {
         "Artist": "Pink Floyd",
-        "Genres": ["Art Rock", "Progressive Rock"],
+        "Genres": [
+            "Art Rock",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/be389a69a7e6c54e4643f81fa57f3478/4184635/Pink%20Floyd%20-%20Wish%20You%20Were%20Here%2C%20Cover%20art.png",
         "Rank": 4,
         "Year": 1975
-    },"Madvillainy": {
+    },
+    "Madvillainy": {
         "Artist": "Madvillain",
-        "Genres": ["Abstract Hip Hop"],
+        "Genres": [
+            "Abstract Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f065d339c033a9840955cf0c3202ddd0/10532981/Madvillain%20-%20Madvillainy%2C%20Cover%20art.jpeg",
         "Rank": 5,
         "Year": 2004
-    },"In the Court of the Crimson King": {
+    },
+    "In the Court of the Crimson King": {
         "Artist": "King Crimson",
-        "Genres": ["Art Rock", "Progressive Rock"],
+        "Genres": [
+            "Art Rock",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/fa82afbf23e5f3f3328022a357187c31/11859497/King%20Crimson%20-%20In%20the%20Court%20of%20the%20Crimson%20King%2C%20Cover%20art.jpeg",
         "Rank": 6,
         "Year": 1969
-    },"Kid A": {
+    },
+    "Kid A": {
         "Artist": "Radiohead",
-        "Genres": ["Art Rock", "Electronic"],
+        "Genres": [
+            "Art Rock",
+            "Electronic"
+        ],
         "Image": "https://e.snmc.io/i/300/s/5a37f3090014ab30f4b19cba57f552ff/8879684/Radiohead%20-%20Kid%20A%2C%20Cover%20art.jpeg",
         "Rank": 7,
         "Year": 2000
-    },"good kid, m.A.A.d city": {
+    },
+    "good kid, m.A.A.d city": {
         "Artist": "Kendrick Lamar",
-        "Genres": ["Conscious Hip Hop", "West Coast Hip Hop"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "West Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f80a2acff1fa2584d44a0cb8c2524b5e/11410589/Kendrick%20Lamar%20-%20good%20kid%2C%20m_A_A_d%20city%2C%20Cover%20art.jpeg",
         "Rank": 8,
         "Year": 2012
-    },"Loveless": {
+    },
+    "Loveless": {
         "Artist": "My Bloody Valentine",
-        "Genres": ["Noise Pop", "Shoegaze"],
+        "Genres": [
+            "Noise Pop",
+            "Shoegaze"
+        ],
         "Image": "https://e.snmc.io/i/300/s/bbd93c84018869d0343d64d49945b6c9/11569981/My%20Bloody%20Valentine%20-%20Loveless%2C%20Cover%20art.jpeg",
         "Rank": 9,
         "Year": 1991
-    },"The Dark Side of the Moon": {
+    },
+    "The Dark Side of the Moon": {
         "Artist": "Pink Floyd",
-        "Genres": ["Art Rock", "Progressive Rock"],
+        "Genres": [
+            "Art Rock",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c19f45d920dc2fff9da59e6886a3d8a5/12206378/Pink%20Floyd%20-%20The%20Dark%20Side%20of%20the%20Moon%2C%20Cover%20art.jpeg",
         "Rank": 10,
         "Year": 1973
-    },"Abbey Road": {
+    },
+    "Abbey Road": {
         "Artist": "The Beatles",
-        "Genres": ["Pop Rock"],
+        "Genres": [
+            "Pop Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0497f32eaa2036ff15974f9182a098e6/12188855/The%20Beatles%20-%20Abbey%20Road%2C%20Cover%20art.jpeg",
         "Rank": 11,
         "Year": 1969
-    },"Remain in Light": {
+    },
+    "Remain in Light": {
         "Artist": "Talking Heads",
-        "Genres": ["New Wave", "Post-Punk"],
+        "Genres": [
+            "New Wave",
+            "Post-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6ece69e2215dc8cf89c88d0098d76424/5627825/Talking%20Heads%20-%20Remain%20in%20Light%2C%20Cover%20art.jpeg",
         "Rank": 12,
         "Year": 1980
-    },"The Rise and Fall of Ziggy Stardust and the Spiders From Mars": {
+    },
+    "The Rise and Fall of Ziggy Stardust and the Spiders From Mars": {
         "Artist": "David Bowie",
-        "Genres": ["Glam Rock", "Pop Rock"],
+        "Genres": [
+            "Glam Rock",
+            "Pop Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2676943ee600668efbc5040c59306138/8542182/David%20Bowie%20-%20The%20Rise%20and%20Fall%20of%20Ziggy%20Stardust%20and%20the%20Spiders%20From%20Mars%2C%20Cover%20art.png",
         "Rank": 13,
         "Year": 1972
-    },"The Black Saint and the Sinner Lady": {
+    },
+    "The Black Saint and the Sinner Lady": {
         "Artist": "Mingus",
-        "Genres": ["Avant-Garde Jazz", "Third Stream"],
+        "Genres": [
+            "Avant-Garde Jazz",
+            "Third Stream"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7f023e849a7b66cb8566b879cd8416d9/8024579/Mingus%20-%20The%20Black%20Saint%20and%20the%20Sinner%20Lady%2C%20Cover%20art.png",
         "Rank": 14,
         "Year": 1963
-    },"Illmatic": {
+    },
+    "Illmatic": {
         "Artist": "Nas",
-        "Genres": ["Boom Bap", "East Coast Hip Hop", "Hardcore Hip Hop"],
+        "Genres": [
+            "Boom Bap",
+            "East Coast Hip Hop",
+            "Hardcore Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/10d840db81e059d49d609c123f5cc6db/5352803/Nas%20-%20Illmatic%2C%20Cover%20art.jpeg",
         "Rank": 15,
         "Year": 1994
-    },"The Velvet Underground &amp; Nico": {
+    },
+    "The Velvet Underground &amp; Nico": {
         "Artist": "The Velvet Underground",
-        "Genres": ["Art Rock", "Experimental Rock"],
+        "Genres": [
+            "Art Rock",
+            "Experimental Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/bc060edfb34bcea7987cda9f000b874d/6988068/The%20Velvet%20Underground%20%26%20Nico%20-%20The%20Velvet%20Underground%20%26%20Nico%2C%20Cover%20art.png",
         "Rank": 16,
         "Year": 1967
-    },"Revolver": {
+    },
+    "Revolver": {
         "Artist": "The Beatles",
-        "Genres": ["Pop Rock", "Psychedelic Pop"],
+        "Genres": [
+            "Pop Rock",
+            "Psychedelic Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/dc60c9698ba32e30f9fcb62503bd9a58/12121976/The%20Beatles%20-%20Revolver%2C%20Cover%20art.jpeg",
         "Rank": 17,
         "Year": 1966
-    },"A Love Supreme": {
+    },
+    "A Love Supreme": {
         "Artist": "John Coltrane",
-        "Genres": ["Avant-Garde Jazz", "Spiritual Jazz"],
+        "Genres": [
+            "Avant-Garde Jazz",
+            "Spiritual Jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7436c65475fc840a261dfd1eda7b6e4c/12119724/John%20Coltrane%20-%20A%20Love%20Supreme%2C%20Cover%20art.jpeg",
         "Rank": 18,
         "Year": 1965
-    },"Lift Yr. Skinny Fists Like Antennas to Heaven!": {
+    },
+    "Lift Yr. Skinny Fists Like Antennas to Heaven!": {
         "Artist": "Godspeed You Black Emperor!",
-        "Genres": ["Post-Rock"],
+        "Genres": [
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0915915f149a049095c17c3c8282b540/5662600/Godspeed%20You%20Black%20Emperor!%20-%20Lift%20Yr_%20Skinny%20Fists%20Like%20Antennas%20to%20Heaven!%2C%20Cover%20art.jpeg",
         "Rank": 19,
         "Year": 2000
-    },"Vespertine": {
+    },
+    "Vespertine": {
         "Artist": "Björk",
-        "Genres": ["Art Pop", "Electronic"],
+        "Genres": [
+            "Art Pop",
+            "Electronic"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c8b33d1c4b089e376767dc89a7eaf9c6/9935583/Bj%C3%B6rk%20-%20Vespertine%2C%20Cover%20art.jpeg",
         "Rank": 20,
         "Year": 2001
-    },"Paranoid": {
+    },
+    "Paranoid": {
         "Artist": "Black Sabbath",
-        "Genres": ["Hard Rock", "Heavy Metal"],
+        "Genres": [
+            "Hard Rock",
+            "Heavy Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1422ee6c94fa55b10aa4f18b204f9388/12295447/Black%20Sabbath%20-%20Paranoid%2C%20Cover%20art.jpeg",
         "Rank": 21,
         "Year": 1970
-    },"Disintegration": {
+    },
+    "Disintegration": {
         "Artist": "The Cure",
-        "Genres": ["Gothic Rock", "Post-Punk"],
+        "Genres": [
+            "Gothic Rock",
+            "Post-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/29b2c9432826d267954d279a5db08a0a/7272164/The%20Cure%20-%20Disintegration%2C%20Cover%20art.jpeg",
         "Rank": 22,
         "Year": 1989
-    },"Kind of Blue": {
+    },
+    "Kind of Blue": {
         "Artist": "Miles Davis",
-        "Genres": ["Cool Jazz", "Modal Jazz"],
+        "Genres": [
+            "Cool Jazz",
+            "Modal Jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1e7d8c76a0c0b58639e7b7408947bd13/7426308/Miles%20Davis%20-%20Kind%20of%20Blue%2C%20Cover%20art.jpeg",
         "Rank": 23,
         "Year": 1959
-    },"Enter the Wu-Tang (36 Chambers)": {
+    },
+    "Enter the Wu-Tang (36 Chambers)": {
         "Artist": "Wu-Tang Clan",
-        "Genres": ["Boom Bap", "East Coast Hip Hop", "Hardcore Hip Hop"],
+        "Genres": [
+            "Boom Bap",
+            "East Coast Hip Hop",
+            "Hardcore Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/30d3e6833211d11e71b2ee5713a8da10/6558603/Wu-Tang%20Clan%20-%20Enter%20the%20Wu-Tang%20(36%20Chambers)%2C%20Cover%20art.jpeg",
         "Rank": 24,
         "Year": 1993
-    },"Animals": {
+    },
+    "Animals": {
         "Artist": "Pink Floyd",
-        "Genres": ["Art Rock", "Progressive Rock"],
+        "Genres": [
+            "Art Rock",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9ee57167b8713be1287174840c6ffe62/4175208/Pink%20Floyd%20-%20Animals%2C%20Cover%20art.png",
         "Rank": 25,
         "Year": 1977
-    },"My Beautiful Dark Twisted Fantasy": {
+    },
+    "My Beautiful Dark Twisted Fantasy": {
         "Artist": "Kanye West",
-        "Genres": ["Hip Hop", "Pop Rap"],
+        "Genres": [
+            "Hip Hop",
+            "Pop Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b7e91810a226d37876f1350a44819525/6045065/Kanye%20West%20-%20My%20Beautiful%20Dark%20Twisted%20Fantasy%2C%20Cover%20art.jpeg",
         "Rank": 26,
         "Year": 2010
-    },"Red": {
+    },
+    "Red": {
         "Artist": "King Crimson",
-        "Genres": ["Art Rock", "Progressive Rock"],
+        "Genres": [
+            "Art Rock",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/543f4f2f5aadce5f92b20c8ff0139043/10733413/King%20Crimson%20-%20Red%2C%20Cover%20art.png",
         "Rank": 27,
         "Year": 1974
-    },"LONG SEASON": {
+    },
+    "LONG SEASON": {
         "Artist": "Fishmans",
-        "Genres": ["Dream Pop", "Neo-Psychedelia", "Progressive Pop"],
+        "Genres": [
+            "Dream Pop",
+            "Neo-Psychedelia",
+            "Progressive Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/448ada3d5c0b215810fd98a3f86b3a9d/10504082/Fishmans%20-%20LONG%20SEASON%2C%20Cover%20art.jpeg",
         "Rank": 28,
         "Year": 1996
-    },"Spiderland": {
+    },
+    "Spiderland": {
         "Artist": "Slint",
-        "Genres": ["Math Rock", "Post-Hardcore", "Post-Rock"],
+        "Genres": [
+            "Math Rock",
+            "Post-Hardcore",
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6869a5c973944d444724e2108462909b/2161189/Slint%20-%20Spiderland%2C%20Cover%20art.jpeg",
         "Rank": 29,
         "Year": 1991
-    },"Pet Sounds": {
+    },
+    "Pet Sounds": {
         "Artist": "The Beach Boys",
-        "Genres": ["Baroque Pop"],
+        "Genres": [
+            "Baroque Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c48378ca12e96e7cf9199a230825df78/3633017/The%20Beach%20Boys%20-%20Pet%20Sounds%2C%20Cover%20art.jpeg",
         "Rank": 30,
         "Year": 1966
-    },"In the Aeroplane Over the Sea": {
+    },
+    "In the Aeroplane Over the Sea": {
         "Artist": "Neutral Milk Hotel",
-        "Genres": ["Indie Folk", "Indie Rock"],
+        "Genres": [
+            "Indie Folk",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4aecc2e47f567a67ebdef5acfc788ad5/12274753/Neutral%20Milk%20Hotel%20-%20In%20the%20Aeroplane%20Over%20the%20Sea%2C%20Cover%20art.jpeg",
         "Rank": 31,
         "Year": 1998
-    },"Pink Moon": {
+    },
+    "Pink Moon": {
         "Artist": "Nick Drake",
-        "Genres": ["Contemporary Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Contemporary Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ec2b52ab73dc4f61f27aebe6c768e3ed/11448668/Nick%20Drake%20-%20Pink%20Moon%2C%20Cover%20art.jpeg",
         "Rank": 32,
         "Year": 1972
-    },"Songs in the Key of Life": {
+    },
+    "Songs in the Key of Life": {
         "Artist": "Stevie Wonder",
-        "Genres": ["Soul"],
+        "Genres": [
+            "Soul"
+        ],
         "Image": "https://e.snmc.io/i/300/s/17e895496047110ec0755652acd84594/7228470/Stevie%20Wonder%20-%20Songs%20in%20the%20Key%20of%20Life%2C%20Cover%20art.jpeg",
         "Rank": 33,
         "Year": 1976
-    },"Dummy": {
+    },
+    "Dummy": {
         "Artist": "Portishead",
-        "Genres": ["Trip Hop"],
+        "Genres": [
+            "Trip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c76d87d545ccca926770d7fe8eb4e7c9/10069850/Portishead%20-%20Dummy%2C%20Cover%20art.png",
         "Rank": 34,
         "Year": 1994
-    },"The Money Store": {
+    },
+    "The Money Store": {
         "Artist": "Death Grips",
-        "Genres": ["Experimental Hip Hop", "Hardcore Hip Hop", "Industrial Hip Hop"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Hardcore Hip Hop",
+            "Industrial Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/248aa2ba0306adc66d403eeb965f063a/6553570/Death%20Grips%20-%20The%20Money%20Store%2C%20Cover%20art.jpeg",
         "Rank": 35,
         "Year": 2012
-    },"The College Dropout": {
+    },
+    "The College Dropout": {
         "Artist": "Kanye West",
-        "Genres": ["Chipmunk Soul", "Pop Rap"],
+        "Genres": [
+            "Chipmunk Soul",
+            "Pop Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/3a8053c10ed2cd0e9f28625e4e3651ad/4096884/Kanye%20West%20-%20The%20College%20Dropout%2C%20Cover%20art.jpeg",
         "Rank": 36,
         "Year": 2004
-    },"The Queen Is Dead": {
+    },
+    "The Queen Is Dead": {
         "Artist": "The Smiths",
-        "Genres": ["Indie Pop", "Jangle Pop"],
+        "Genres": [
+            "Indie Pop",
+            "Jangle Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/21bcf64f8478a3bb189c5ebb8f326068/12056415/The%20Smiths%20-%20The%20Queen%20Is%20Dead%2C%20Cover%20art.png",
         "Rank": 37,
         "Year": 1986
-    },"Souvlaki": {
+    },
+    "Souvlaki": {
         "Artist": "Slowdive",
-        "Genres": ["Dream Pop", "Shoegaze"],
+        "Genres": [
+            "Dream Pop",
+            "Shoegaze"
+        ],
         "Image": "https://e.snmc.io/i/300/s/02168a150d086ec554dc31cb239a4138/8055860/Slowdive%20-%20Souvlaki%2C%20Cover%20art.jpeg",
         "Rank": 38,
         "Year": 1993
-    },"Heaven or Las Vegas": {
+    },
+    "Heaven or Las Vegas": {
         "Artist": "Cocteau Twins",
-        "Genres": ["Dream Pop"],
-        "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+        "Genres": [
+            "Dream Pop"
+        ],
+        "Image": "https://e.snmc.io/i/600/w/d688c2e2d37251698dbbc1355018340a/11766199/cocteau-twins-heaven-or-las-vegas-Cover-Art.jpg",
         "Rank": 39,
         "Year": 1990
-    },"The Glow Pt. 2": {
+    },
+    "The Glow Pt. 2": {
         "Artist": "The Microphones",
-        "Genres": ["Indie Folk", "Psychedelic Folk", "Slacker Rock"],
+        "Genres": [
+            "Indie Folk",
+            "Psychedelic Folk",
+            "Slacker Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/dc3202749b736b8331c08635e935fd90/8964258/The%20Microphones%20-%20The%20Glow%20Pt_%202%2C%20Cover%20art.jpeg",
         "Rank": 40,
         "Year": 2001
-    },"Igor": {
+    },
+    "Igor": {
         "Artist": "Tyler, the Creator",
-        "Genres": ["Neo-Soul"],
+        "Genres": [
+            "Neo-Soul"
+        ],
         "Image": "https://e.snmc.io/i/300/s/befb5b1ba131c8acca235078ad1469c9/7574908/Tyler%2C%20the%20Creator%20-%20Igor%2C%20Cover%20art.jpeg",
         "Rank": 41,
         "Year": 2019
-    },"Atrocity Exhibition": {
+    },
+    "Atrocity Exhibition": {
         "Artist": "Danny Brown",
-        "Genres": ["Experimental Hip Hop", "Hardcore Hip Hop"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Hardcore Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9f24a74dabaf9f2f0d5e3f64f039f9bb/10533488/Danny%20Brown%20-%20Atrocity%20Exhibition%2C%20Cover%20art.jpeg",
         "Rank": 42,
         "Year": 2016
-    },"In a Silent Way": {
+    },
+    "In a Silent Way": {
         "Artist": "Miles Davis",
-        "Genres": ["Jazz Fusion", "Modal Jazz"],
+        "Genres": [
+            "Jazz Fusion",
+            "Modal Jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7879a98690e012ef210bf4489f551b54/9687885/Miles%20Davis%20-%20In%20a%20Silent%20Way%2C%20Cover%20art.png",
         "Rank": 43,
         "Year": 1969
-    },"Sgt. Pepper's Lonely Hearts Club Band": {
+    },
+    "Sgt. Pepper's Lonely Hearts Club Band": {
         "Artist": "The Beatles",
-        "Genres": ["Pop Rock", "Psychedelic Pop"],
+        "Genres": [
+            "Pop Rock",
+            "Psychedelic Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/17e154620068ef6923a4fc7abbdfc3e8/10941490/The%20Beatles%20-%20Sgt_%20Pepper's%20Lonely%20Hearts%20Club%20Band%2C%20Cover%20art.jpeg",
         "Rank": 44,
         "Year": 1967
-    },"Unknown Pleasures": {
+    },
+    "Unknown Pleasures": {
         "Artist": "Joy Division",
-        "Genres": ["Post-Punk"],
+        "Genres": [
+            "Post-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/cdaccd6496fd89fc83769686029a8a17/10154759/Joy%20Division%20-%20Unknown%20Pleasures%2C%20Cover%20art.jpeg",
         "Rank": 45,
         "Year": 1979
-    },"Blonde": {
+    },
+    "Blonde": {
         "Artist": "Frank Ocean",
-        "Genres": ["Alternative R&amp;B", "Art Pop"],
+        "Genres": [
+            "Alternative R&amp;B",
+            "Art Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b5ec5f9fe27f47cfe61e8fbf93314a72/8060362/Frank%20Ocean%20-%20Blonde%2C%20Cover%20art.jpeg",
         "Rank": 46,
         "Year": 2016
-    },"Homogenic": {
+    },
+    "Homogenic": {
         "Artist": "Björk",
-        "Genres": ["Art Pop", "Electronic"],
+        "Genres": [
+            "Art Pop",
+            "Electronic"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b80486d3d8c0fc0c3c757ae078ce42f1/8697079/Bj%C3%B6rk%20-%20Homogenic%2C%20Cover%20art.jpeg",
         "Rank": 47,
         "Year": 1997
-    },"Hounds of Love": {
+    },
+    "Hounds of Love": {
         "Artist": "Kate Bush",
-        "Genres": ["Art Pop", "Progressive Pop"],
+        "Genres": [
+            "Art Pop",
+            "Progressive Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7a945d5eee785f330de2a0ab028ed99c/12177980/Kate%20Bush%20-%20Hounds%20of%20Love%2C%20Cover%20art.jpeg",
         "Rank": 48,
         "Year": 1985
-    },"The Low End Theory": {
+    },
+    "The Low End Theory": {
         "Artist": "A Tribe Called Quest",
-        "Genres": ["Conscious Hip Hop", "East Coast Hip Hop", "Jazz Rap"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "East Coast Hip Hop",
+            "Jazz Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a3f7549db33caf0e5fa1713d073cb1ac/12239888/A%20Tribe%20Called%20Quest%20-%20The%20Low%20End%20Theory%2C%20Cover%20art.jpeg",
         "Rank": 49,
         "Year": 1991
-    },"F♯A♯∞": {
+    },
+    "F♯A♯∞": {
         "Artist": "Godspeed You Black Emperor!",
-        "Genres": ["Post-Rock"],
+        "Genres": [
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/95f5726cf1dcf9d283a7d2bcc498e845/11681270/Godspeed%20You%20Black%20Emperor!%20-%20F%E2%99%AFA%E2%99%AF%E2%88%9E%2C%20Cover%20art.png",
         "Rank": 50,
         "Year": 1997
-    },"What's Going On": {
+    },
+    "What's Going On": {
         "Artist": "Marvin Gaye",
-        "Genres": ["Soul"],
-        "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+        "Genres": [
+            "Soul"
+        ],
+        "Image": "https://e.snmc.io/i/600/w/120430e5d98adbf2d6cd8652aedc9d30/12365918/marvin-gaye-whats-going-on-Cover-Art.jpg",
         "Rank": 51,
         "Year": 1971
-    },"The Beatles [White Album]": {
+    },
+    "The Beatles [White Album]": {
         "Artist": "The Beatles",
-        "Genres": ["Pop Rock", "Rock"],
+        "Genres": [
+            "Pop Rock",
+            "Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2077f461e0dbdd9d615ffcfb5d80e116/7430929/The%20Beatles%20-%20The%20Beatles%20%5BWhite%20Album%5D%2C%20Cover%20art.jpeg",
         "Rank": 52,
         "Year": 1968
-    },"Either / Or": {
+    },
+    "Either / Or": {
         "Artist": "Elliott Smith",
-        "Genres": ["Indie Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7c17d8fcde0aac6b6632be55112d22a8/5191061/Elliott%20Smith%20-%20Either%20%2F%20Or%2C%20Cover%20art.jpeg",
         "Rank": 53,
         "Year": 1997
-    },"MM..FOOD": {
+    },
+    "MM..FOOD": {
         "Artist": "MF DOOM",
-        "Genres": ["Abstract Hip Hop", "East Coast Hip Hop"],
+        "Genres": [
+            "Abstract Hip Hop",
+            "East Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7e7969937ee1ea99e246b7367bff73a7/11429706/MF%20DOOM%20-%20MM__FOOD%2C%20Cover%20art.jpeg",
         "Rank": 54,
         "Year": 2004
-    },"Bitches Brew": {
+    },
+    "Bitches Brew": {
         "Artist": "Miles Davis",
-        "Genres": ["Avant-Garde Jazz", "Jazz Fusion"],
+        "Genres": [
+            "Avant-Garde Jazz",
+            "Jazz Fusion"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0cae52f77a2882b84d03c44ecbf6060c/2259766/Miles%20Davis%20-%20Bitches%20Brew%2C%20Cover%20art.jpeg",
         "Rank": 55,
         "Year": 1970
-    },"Close to the Edge": {
+    },
+    "Close to the Edge": {
         "Artist": "Yes",
-        "Genres": ["Progressive Rock", "Symphonic Prog"],
+        "Genres": [
+            "Progressive Rock",
+            "Symphonic Prog"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a03ea21aa66f1514e04b4fcb54b75128/11166648/Yes%20-%20Close%20to%20the%20Edge%2C%20Cover%20art.jpeg",
         "Rank": 56,
         "Year": 1972
-    },"Low": {
+    },
+    "Low": {
         "Artist": "David Bowie",
-        "Genres": ["Art Rock"],
+        "Genres": [
+            "Art Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/975219834040280f48185ab70215604e/12295894/David%20Bowie%20-%20Low%2C%20Cover%20art.jpeg",
         "Rank": 57,
         "Year": 1977
-    },"★ [Blackstar]": {
+    },
+    "★ [Blackstar]": {
         "Artist": "David Bowie",
-        "Genres": ["Art Rock"],
+        "Genres": [
+            "Art Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/8a3d4bd8812f74f90ab55e22fdbc7578/5978111/David%20Bowie%20-%20%E2%98%85%20%5BBlackstar%5D%2C%20Cover%20art.png",
         "Rank": 58,
         "Year": 2016
-    },"Endtroducing.....": {
+    },
+    "Endtroducing.....": {
         "Artist": "DJ Shadow",
-        "Genres": ["Experimental Hip Hop", "Instrumental Hip Hop", "Plunderphonics"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Instrumental Hip Hop",
+            "Plunderphonics"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0d83ed624f992c547b5a2d66cd859842/12326492/DJ%20Shadow%20-%20Endtroducing_____%2C%20Cover%20art.jpeg",
         "Rank": 59,
         "Year": 1996
-    },"Marquee Moon": {
+    },
+    "Marquee Moon": {
         "Artist": "Television",
-        "Genres": ["Art Punk", "Art Rock", "Post-Punk"],
+        "Genres": [
+            "Art Punk",
+            "Art Rock",
+            "Post-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/615db3e6e39fd93abef61bad7bbdd90c/7659700/Television%20-%20Marquee%20Moon%2C%20Cover%20art.jpeg",
         "Rank": 60,
         "Year": 1977
-    },"Illinois": {
+    },
+    "Illinois": {
         "Artist": "Sufjan Stevens",
-        "Genres": ["Chamber Pop", "Singer-Songwriter"],
+        "Genres": [
+            "Chamber Pop",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0b159f0fe9db18f32dc547349a807276/6845564/Sufjan%20Stevens%20-%20Illinois%2C%20Cover%20art.jpeg",
         "Rank": 61,
         "Year": 2005
-    },"Doolittle": {
+    },
+    "Doolittle": {
         "Artist": "Pixies",
-        "Genres": ["Alternative Rock", "Indie Rock"],
+        "Genres": [
+            "Alternative Rock",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/058e72cba81e7788760908ed9577f378/9267576/Pixies%20-%20Doolittle%2C%20Cover%20art.png",
         "Rank": 62,
         "Year": 1989
-    },"Selected Ambient Works 85-92": {
+    },
+    "Selected Ambient Works 85-92": {
         "Artist": "Aphex Twin",
-        "Genres": ["Ambient Techno", "IDM"],
+        "Genres": [
+            "Ambient Techno",
+            "IDM"
+        ],
         "Image": "https://e.snmc.io/i/300/s/085c31e098fcdabc1daeb3e0663e11b4/1353614/Aphex%20Twin%20-%20Selected%20Ambient%20Works%2085-92%2C%20Cover%20art.jpeg",
         "Rank": 63,
         "Year": 1992
-    },"Highway 61 Revisited": {
+    },
+    "Highway 61 Revisited": {
         "Artist": "Bob Dylan",
-        "Genres": ["Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/493379771ddd808552426c37aab6584f/3677487/Bob%20Dylan%20-%20Highway%2061%20Revisited%2C%20Cover%20art.jpeg",
         "Rank": 64,
         "Year": 1965
-    },"Discovery": {
+    },
+    "Discovery": {
         "Artist": "Daft Punk",
-        "Genres": ["French House"],
+        "Genres": [
+            "French House"
+        ],
         "Image": "https://e.snmc.io/i/300/s/98de54f0934f3a82fcf3178b89943e97/10377265/Daft%20Punk%20-%20Discovery%2C%20Cover%20art.jpeg",
         "Rank": 65,
         "Year": 2001
-    },"Soundtracks for the Blind": {
+    },
+    "Soundtracks for the Blind": {
         "Artist": "Swans",
-        "Genres": ["Experimental", "Experimental Rock", "Post-Rock"],
+        "Genres": [
+            "Experimental",
+            "Experimental Rock",
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/742b19a60e882643737cdde408788ceb/1868623/Swans%20-%20Soundtracks%20for%20the%20Blind%2C%20Cover%20art.jpeg",
         "Rank": 66,
         "Year": 1996
-    },"Deathconsciousness": {
+    },
+    "Deathconsciousness": {
         "Artist": "Have a Nice Life",
-        "Genres": ["Post-Punk", "Shoegaze"],
+        "Genres": [
+            "Post-Punk",
+            "Shoegaze"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ba7dce62888226b12b86405ed650a59e/10669900/Have%20a%20Nice%20Life%20-%20Deathconsciousness%2C%20Cover%20art.jpeg",
         "Rank": 67,
         "Year": 2008
-    },"Donuts": {
+    },
+    "Donuts": {
         "Artist": "J Dilla",
-        "Genres": ["Instrumental Hip Hop"],
+        "Genres": [
+            "Instrumental Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/edd804d82ec19629f3c799351378af63/3124480/J%20Dilla%20-%20Donuts%2C%20Cover%20art.jpeg",
         "Rank": 68,
         "Year": 2006
-    },"Electric Ladyland": {
+    },
+    "Electric Ladyland": {
         "Artist": "The Jimi Hendrix Experience",
-        "Genres": ["Acid Rock", "Blues Rock", "Psychedelic Rock"],
+        "Genres": [
+            "Acid Rock",
+            "Blues Rock",
+            "Psychedelic Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/316c1563af75109e7cf3cbd74afa08a9/3646702/The%20Jimi%20Hendrix%20Experience%20-%20Electric%20Ladyland%2C%20Cover%20art.jpeg",
         "Rank": 69,
         "Year": 1968
-    },"Led Zeppelin [IV]": {
+    },
+    "Led Zeppelin [IV]": {
         "Artist": "Led Zeppelin",
-        "Genres": ["Hard Rock"],
+        "Genres": [
+            "Hard Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/21a4c77edcba76ab85f839044ef41f24/5707164/Led%20Zeppelin%20-%20Led%20Zeppelin%20%5BIV%5D%2C%20Cover%20art.jpeg",
         "Rank": 70,
         "Year": 1971
-    },"Nevermind": {
+    },
+    "Nevermind": {
         "Artist": "Nirvana",
-        "Genres": ["Alternative Rock", "Grunge"],
+        "Genres": [
+            "Alternative Rock",
+            "Grunge"
+        ],
         "Image": "https://e.snmc.io/i/300/s/fab6a6d6a1ee5358d296485612460293/1628796/Nirvana%20-%20Nevermind%2C%20Cover%20art.jpeg",
         "Rank": 71,
         "Year": 1991
-    },"Master of Reality": {
+    },
+    "Master of Reality": {
         "Artist": "Black Sabbath",
-        "Genres": ["Heavy Metal", "Traditional Doom Metal"],
+        "Genres": [
+            "Heavy Metal",
+            "Traditional Doom Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b92aeab55105effb4489078d8b3d8171/2918156/Black%20Sabbath%20-%20Master%20of%20Reality%2C%20Cover%20art.jpeg",
         "Rank": 72,
         "Year": 1971
-    },"Laughing Stock": {
+    },
+    "Laughing Stock": {
         "Artist": "Talk Talk",
-        "Genres": ["Post-Rock"],
+        "Genres": [
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/79ced554b6508ada4140caadc64c17e6/6811660/Talk%20Talk%20-%20Laughing%20Stock%2C%20Cover%20art.jpeg",
         "Rank": 73,
         "Year": 1991
-    },"In Utero": {
+    },
+    "In Utero": {
         "Artist": "Nirvana",
-        "Genres": ["Grunge", "Noise Rock"],
+        "Genres": [
+            "Grunge",
+            "Noise Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1f98fc5c98cb6469bba567c8595c1177/12026991/Nirvana%20-%20In%20Utero%2C%20Cover%20art.jpeg",
         "Rank": 74,
         "Year": 1993
-    },"The Doors": {
+    },
+    "The Doors": {
         "Artist": "The Doors",
-        "Genres": ["Psychedelic Rock"],
+        "Genres": [
+            "Psychedelic Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a4a4a907219d1fbda4b823bc90af9998/2281803/The%20Doors%20-%20The%20Doors%2C%20Cover%20art.jpeg",
         "Rank": 75,
         "Year": 1967
-    },"Station to Station": {
+    },
+    "Station to Station": {
         "Artist": "David Bowie",
-        "Genres": ["Art Rock", "Funk Rock"],
+        "Genres": [
+            "Art Rock",
+            "Funk Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/31382ec6ee9f7fb76e7e4fdf6006cccf/10744832/David%20Bowie%20-%20Station%20to%20Station%2C%20Cover%20art.jpeg",
         "Rank": 76,
         "Year": 1976
-    },"Blonde on Blonde": {
+    },
+    "Blonde on Blonde": {
         "Artist": "Bob Dylan",
-        "Genres": ["Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f148cc3facae7b94015173135d7ab458/6868676/Bob%20Dylan%20-%20Blonde%20on%20Blonde%2C%20Cover%20art.jpeg",
         "Rank": 77,
         "Year": 1966
-    },"Karma": {
+    },
+    "Karma": {
         "Artist": "Pharoah Sanders",
-        "Genres": ["Avant-Garde Jazz", "Spiritual Jazz"],
+        "Genres": [
+            "Avant-Garde Jazz",
+            "Spiritual Jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/955c242856366f005584cacd49e0469c/5046036/Pharoah%20Sanders%20-%20Karma%2C%20Cover%20art.jpeg",
         "Rank": 78,
         "Year": 1969
-    },"Blood on the Tracks": {
+    },
+    "Blood on the Tracks": {
         "Artist": "Bob Dylan",
-        "Genres": ["Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6561e5f7aa0966d580708c1aa6fc2100/12127324/Bob%20Dylan%20-%20Blood%20on%20the%20Tracks%2C%20Cover%20art.jpeg",
         "Rank": 79,
         "Year": 1975
-    },"Ride the Lightning": {
+    },
+    "Ride the Lightning": {
         "Artist": "Metallica",
-        "Genres": ["Thrash Metal"],
+        "Genres": [
+            "Thrash Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a54acb73ba94f6f441a6cc3311f7e0e4/10821765/Metallica%20-%20Ride%20the%20Lightning%2C%20Cover%20art.jpeg",
         "Rank": 80,
         "Year": 1984
-    },"The Downward Spiral": {
+    },
+    "The Downward Spiral": {
         "Artist": "Nine Inch Nails",
-        "Genres": ["Industrial Rock"],
+        "Genres": [
+            "Industrial Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/5f058a9b541ed190674e13fd582dd613/2557124/Nine%20Inch%20Nails%20-%20The%20Downward%20Spiral%2C%20Cover%20art.jpeg",
         "Rank": 81,
         "Year": 1994
-    },"Ants From Up There": {
+    },
+    "Ants From Up There": {
         "Artist": "Black Country, New Road",
-        "Genres": ["Art Rock", "Chamber Pop", "Post-Rock"],
+        "Genres": [
+            "Art Rock",
+            "Chamber Pop",
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/962f3c52f37cf69d7f25f75f939c85e4/9391518/Black%20Country%2C%20New%20Road%20-%20Ants%20From%20Up%20There%2C%20Cover%20art.jpeg",
         "Rank": 82,
         "Year": 2022
-    },"Closer": {
+    },
+    "Closer": {
         "Artist": "Joy Division",
-        "Genres": ["Post-Punk"],
+        "Genres": [
+            "Post-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9c7d34afb9f884e03b4817f908020bf4/7790079/Joy%20Division%20-%20Closer%2C%20Cover%20art.jpeg",
         "Rank": 83,
         "Year": 1980
-    },"Aquemini": {
+    },
+    "Aquemini": {
         "Artist": "OutKast",
-        "Genres": ["Conscious Hip Hop", "Southern Hip Hop"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "Southern Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/23bc2d9827cadd495b68836049535a22/8595826/OutKast%20-%20Aquemini%2C%20Cover%20art.jpeg",
         "Rank": 84,
         "Year": 1998
-    },"Late Registration": {
+    },
+    "Late Registration": {
         "Artist": "Kanye West",
-        "Genres": ["Hip Hop", "Pop Rap"],
+        "Genres": [
+            "Hip Hop",
+            "Pop Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2e1ee1c1d631650ff1ea7890a18c705a/6296496/Kanye%20West%20-%20Late%20Registration%2C%20Cover%20art.jpeg",
         "Rank": 85,
         "Year": 2005
-    },"Carrie &amp; Lowell": {
+    },
+    "Carrie &amp; Lowell": {
         "Artist": "Sufjan Stevens",
-        "Genres": ["Indie Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9ba8b3cd7fccd20d6379499ae2727f0c/12092505/Sufjan%20Stevens%20-%20Carrie%20%26%20Lowell%2C%20Cover%20art.jpeg",
         "Rank": 86,
         "Year": 2015
-    },"Midnight Marauders": {
+    },
+    "Midnight Marauders": {
         "Artist": "A Tribe Called Quest",
-        "Genres": ["Boom Bap", "East Coast Hip Hop", "Jazz Rap"],
+        "Genres": [
+            "Boom Bap",
+            "East Coast Hip Hop",
+            "Jazz Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f916c810c008697f75b85220951ccc00/12136760/A%20Tribe%20Called%20Quest%20-%20Midnight%20Marauders%2C%20Cover%20art.jpeg",
         "Rank": 87,
         "Year": 1993
-    },"Are You Experienced": {
+    },
+    "Are You Experienced": {
         "Artist": "The Jimi Hendrix Experience",
-        "Genres": ["Acid Rock", "Blues Rock", "Psychedelic Rock"],
+        "Genres": [
+            "Acid Rock",
+            "Blues Rock",
+            "Psychedelic Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6d0c4de972ef0fe720bddcdf0788d7ce/2609770/The%20Jimi%20Hendrix%20Experience%20-%20Are%20You%20Experienced%2C%20Cover%20art.jpeg",
         "Rank": 88,
         "Year": 1967
-    },"Mezzanine": {
+    },
+    "Mezzanine": {
         "Artist": "Massive Attack",
-        "Genres": ["Post-Industrial", "Trip Hop"],
+        "Genres": [
+            "Post-Industrial",
+            "Trip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ecbd865c6085655f8b2dbba4ddee8638/10956120/Massive%20Attack%20-%20Mezzanine%2C%20Cover%20art.jpeg",
         "Rank": 89,
         "Year": 1998
-    },"Symbolic": {
+    },
+    "Symbolic": {
         "Artist": "Death",
-        "Genres": ["Technical Death Metal"],
+        "Genres": [
+            "Technical Death Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a8e75ae1139ef779dc172c2380527f5e/11292179/Death%20-%20Symbolic%2C%20Cover%20art.png",
         "Rank": 90,
         "Year": 1995
-    },"Songs of Leonard Cohen": {
+    },
+    "Songs of Leonard Cohen": {
         "Artist": "Leonard Cohen",
-        "Genres": ["Contemporary Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Contemporary Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/87fe5e2843211c31e577caf11b2b50cc/12319332/Leonard%20Cohen%20-%20Songs%20of%20Leonard%20Cohen%2C%20Cover%20art.jpeg",
         "Rank": 91,
         "Year": 1967
-    },"Grace": {
+    },
+    "Grace": {
         "Artist": "Jeff Buckley",
-        "Genres": ["Alternative Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Alternative Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/99cb56659c144812a1c73690e3a1e907/7027387/Jeff%20Buckley%20-%20Grace%2C%20Cover%20art.jpeg",
         "Rank": 92,
         "Year": 1994
-    },"Velocity : Design : Comfort": {
+    },
+    "Velocity : Design : Comfort": {
         "Artist": "Sweet Trip",
-        "Genres": ["Glitch Pop", "IDM"],
+        "Genres": [
+            "Glitch Pop",
+            "IDM"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4e752a312c6e69a0a668e8874996c109/8862424/Sweet%20Trip%20-%20Velocity%20%3A%20Design%20%3A%20Comfort%2C%20Cover%20art.png",
         "Rank": 93,
         "Year": 2003
-    },"Liquid Swords": {
+    },
+    "Liquid Swords": {
         "Artist": "Genius/GZA",
-        "Genres": ["Boom Bap", "East Coast Hip Hop", "Hardcore Hip Hop"],
+        "Genres": [
+            "Boom Bap",
+            "East Coast Hip Hop",
+            "Hardcore Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/e16dc00df609182824b83ad211da307e/2679854/Genius%2FGZA%20-%20Liquid%20Swords%2C%20Cover%20art.jpeg",
         "Rank": 94,
         "Year": 1995
-    },"Innervisions": {
+    },
+    "Innervisions": {
         "Artist": "Stevie Wonder",
-        "Genres": ["Soul"],
+        "Genres": [
+            "Soul"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6707d122c33e54884529c1fce8c865a0/5749587/Stevie%20Wonder%20-%20Innervisions%2C%20Cover%20art.jpeg",
         "Rank": 95,
         "Year": 1973
-    },"Future Days": {
+    },
+    "Future Days": {
         "Artist": "Can",
-        "Genres": ["Krautrock"],
+        "Genres": [
+            "Krautrock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7a1fb262af36f616ba9b96a32e1a9f20/2513970/Can%20-%20Future%20Days%2C%20Cover%20art.jpeg",
         "Rank": 96,
         "Year": 1973
-    },"Master of Puppets": {
+    },
+    "Master of Puppets": {
         "Artist": "Metallica",
-        "Genres": ["Thrash Metal"],
+        "Genres": [
+            "Thrash Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d9f52f1ea4fbdf3348b532b7ce9d7d5b/3986151/Metallica%20-%20Master%20of%20Puppets%2C%20Cover%20art.jpeg",
         "Rank": 97,
         "Year": 1986
-    },"Clube da Esquina": {
+    },
+    "Clube da Esquina": {
         "Artist": "Milton Nascimento",
-        "Genres": ["MPB"],
+        "Genres": [
+            "MPB"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0ad4c32df5499f6133c1c35f6aef054d/12183450/Milton%20Nascimento%20%26%20L%C3%B4%20Borges%20-%20Clube%20da%20Esquina%2C%20Cover%20art.jpeg",
         "Rank": 98,
         "Year": 1972
-    },"Since I Left You": {
+    },
+    "Since I Left You": {
         "Artist": "The Avalanches",
-        "Genres": ["Dance", "Nu-Disco", "Plunderphonics"],
+        "Genres": [
+            "Dance",
+            "Nu-Disco",
+            "Plunderphonics"
+        ],
         "Image": "https://e.snmc.io/i/300/s/bbdf89b5d4fa443f5d2b88a4dd453847/10529939/The%20Avalanches%20-%20Since%20I%20Left%20You%2C%20Cover%20art.jpeg",
         "Rank": 99,
         "Year": 2000
-    },"The Velvet Underground": {
+    },
+    "The Velvet Underground": {
         "Artist": "The Velvet Underground",
-        "Genres": ["Pop Rock"],
+        "Genres": [
+            "Pop Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9e6b31f7199d125261dfbfa3898563d3/5706942/The%20Velvet%20Underground%20-%20The%20Velvet%20Underground%2C%20Cover%20art.jpeg",
         "Rank": 100,
         "Year": 1969
     },
     "Black Sabbath": {
         "Artist": "Black Sabbath",
-        "Genres": ["Hard Rock", "Heavy Metal"],
+        "Genres": [
+            "Hard Rock",
+            "Heavy Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c9694806c1c4536f6bb4f65ae1e5cfc7/10432237/Black%20Sabbath%20-%20Black%20Sabbath%2C%20Cover%20art.jpeg",
         "Rank": 101,
         "Year": 1970
-    },"To Be Kind": {
+    },
+    "To Be Kind": {
         "Artist": "Swans",
-        "Genres": ["Experimental Rock", "Post-Rock"],
+        "Genres": [
+            "Experimental Rock",
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/29bc99b0b1c54e2ad574022bb9c13d49/5247406/Swans%20-%20To%20Be%20Kind%2C%20Cover%20art.jpeg",
         "Rank": 102,
         "Year": 2014
-    },"The Lonesome Crowded West": {
+    },
+    "The Lonesome Crowded West": {
         "Artist": "Modest Mouse",
-        "Genres": ["Indie Rock"],
+        "Genres": [
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/da0e5c4cb6a5e76d2f3369956885c166/12315533/Modest%20Mouse%20-%20The%20Lonesome%20Crowded%20West%2C%20Cover%20art.jpeg",
         "Rank": 103,
         "Year": 1997
-    },"Ágætis byrjun": {
+    },
+    "Ágætis byrjun": {
         "Artist": "Sigur Rós",
-        "Genres": ["Post-Rock"],
+        "Genres": [
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/68531beb0e081cd07494bfb79ba2ac37/2405956/Sigur%20R%C3%B3s%20-%20%C3%81g%C3%A6tis%20byrjun%2C%20Cover%20art.jpeg",
         "Rank": 104,
         "Year": 1999
-    },"Pornography": {
+    },
+    "Pornography": {
         "Artist": "The Cure",
-        "Genres": ["Gothic Rock", "Post-Punk"],
-        "Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+        "Genres": [
+            "Gothic Rock",
+            "Post-Punk"
+        ],
+        "Image": "https://e.snmc.io/i/600/w/50586f0d5665b83c0cbc94fc62d9cb52/3014863/the-cure-pornography-Cover-Art.jpg",
         "Rank": 105,
         "Year": 1982
-    },"Hot Rats": {
+    },
+    "Hot Rats": {
         "Artist": "Frank Zappa",
-        "Genres": ["Jazz Fusion", "Jazz-Rock"],
+        "Genres": [
+            "Jazz Fusion",
+            "Jazz-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/04f957a9859c6254be5ff07621547e34/5397244/Frank%20Zappa%20-%20Hot%20Rats%2C%20Cover%20art.jpeg",
         "Rank": 106,
         "Year": 1969
-    },"Daydream Nation": {
+    },
+    "Daydream Nation": {
         "Artist": "Sonic Youth",
-        "Genres": ["Alternative Rock", "Noise Rock"],
+        "Genres": [
+            "Alternative Rock",
+            "Noise Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4594dfcd5297531649872a0b663a2755/10814815/Sonic%20Youth%20-%20Daydream%20Nation%2C%20Cover%20art.jpeg",
         "Rank": 107,
         "Year": 1988
-    },"Piñata": {
+    },
+    "Piñata": {
         "Artist": "Freddie Gibbs &amp; Madlib",
-        "Genres": ["Gangsta Rap"],
+        "Genres": [
+            "Gangsta Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1dd14ef797c4c1602a431e62282b0be9/5249029/Freddie%20Gibbs%20%26%20Madlib%20-%20Pi%C3%B1ata%2C%20Cover%20art.jpeg",
         "Rank": 108,
         "Year": 2014
-    },"Is This It": {
+    },
+    "Is This It": {
         "Artist": "The Strokes",
-        "Genres": ["Garage Rock Revival", "Indie Rock"],
+        "Genres": [
+            "Garage Rock Revival",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d0b6d4c2b43bbe5c12c5e5886a48d6da/12096953/The%20Strokes%20-%20Is%20This%20It%2C%20Cover%20art.jpeg",
         "Rank": 109,
         "Year": 2001
-    },"Tago Mago": {
+    },
+    "Tago Mago": {
         "Artist": "Can",
-        "Genres": ["Experimental Rock", "Krautrock", "Psychedelic Rock"],
+        "Genres": [
+            "Experimental Rock",
+            "Krautrock",
+            "Psychedelic Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/3788fc512856bc99039383661d004443/2512491/Can%20-%20Tago%20Mago%2C%20Cover%20art.jpeg",
         "Rank": 110,
         "Year": 1971
-    },"Rubber Soul": {
+    },
+    "Rubber Soul": {
         "Artist": "The Beatles",
-        "Genres": ["Pop Rock"],
+        "Genres": [
+            "Pop Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/03fbae87fad7ecfa7c53dada393e0ece/12176961/The%20Beatles%20-%20Rubber%20Soul%2C%20Cover%20art.jpeg",
         "Rank": 111,
         "Year": 1965
-    },"Giant Steps": {
+    },
+    "Giant Steps": {
         "Artist": "John Coltrane",
-        "Genres": ["Hard Bop"],
+        "Genres": [
+            "Hard Bop"
+        ],
         "Image": "https://e.snmc.io/i/600/w/63e405e70842e219a19752fed8eabc1b/9293085/john-coltrane-giant-steps-Cover-Art.jpg",
         "Rank": 112,
         "Year": 1960
-    },"Spirit of Eden": {
+    },
+    "Spirit of Eden": {
         "Artist": "Talk Talk",
-        "Genres": ["Art Rock", "Post-Rock"],
+        "Genres": [
+            "Art Rock",
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/600/w/a9332a8e24989d58caeecaaca5dd3780/7012308/talk-talk-spirit-of-eden-Cover-Art.jpg",
         "Rank": 113,
         "Year": 1988
-    },"My Favorite Things": {
+    },
+    "My Favorite Things": {
         "Artist": "John Coltrane",
-        "Genres": ["Modal Jazz", "Post-Bop"],
+        "Genres": [
+            "Modal Jazz",
+            "Post-Bop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1019f4fc6cec2debec0063f220ce1561/1444999/John%20Coltrane%20-%20My%20Favorite%20Things%2C%20Cover%20art.jpeg",
         "Rank": 114,
         "Year": 1961
-    },"The Infamous": {
+    },
+    "The Infamous": {
         "Artist": "Mobb Deep",
-        "Genres": ["Boom Bap", "East Coast Hip Hop", "Gangsta Rap"],
+        "Genres": [
+            "Boom Bap",
+            "East Coast Hip Hop",
+            "Gangsta Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/155af0a2c75b75e1826b1d89dc3db4c4/2515880/Mobb%20Deep%20-%20The%20Infamous%2C%20Cover%20art.jpeg",
         "Rank": 115,
         "Year": 1995
-    },"All Things Must Pass": {
+    },
+    "All Things Must Pass": {
         "Artist": "George Harrison",
-        "Genres": ["Folk Rock", "Pop Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Folk Rock",
+            "Pop Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4bf48fb9a888e67dbe14732dc30e4e85/5311002/George%20Harrison%20-%20All%20Things%20Must%20Pass%2C%20Cover%20art.jpeg",
         "Rank": 116,
         "Year": 1970
-    },"Rumours": {
+    },
+    "Rumours": {
         "Artist": "Fleetwood Mac",
-        "Genres": ["Pop Rock", "Soft Rock"],
+        "Genres": [
+            "Pop Rock",
+            "Soft Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/944a2d241b0656ed2de57f078e2c75fc/11613626/Fleetwood%20Mac%20-%20Rumours%2C%20Cover%20art.jpeg",
         "Rank": 117,
         "Year": 1977
-    },"Music for 18 Musicians": {
+    },
+    "Music for 18 Musicians": {
         "Artist": "Steve Reich",
-        "Genres": ["Minimalism"],
+        "Genres": [
+            "Minimalism"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b28074cfbbdcad234baab5bca3f78279/7231563/Steve%20Reich%20and%20Musicians%20-%20Music%20for%2018%20Musicians%2C%20Cover%20art.jpeg",
         "Rank": 118,
         "Year": 1978
-    },"Blue": {
+    },
+    "Blue": {
         "Artist": "Joni Mitchell",
-        "Genres": ["Contemporary Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Contemporary Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/19067916473d86610a11dd62a1ffe123/11673836/Joni%20Mitchell%20-%20Blue%2C%20Cover%20art.jpeg",
         "Rank": 119,
         "Year": 1971
-    },"Violator": {
+    },
+    "Violator": {
         "Artist": "Depeche Mode",
-        "Genres": ["Synthpop"],
+        "Genres": [
+            "Synthpop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a794434f0ca53fcbe7a613df103638c4/2531262/Depeche%20Mode%20-%20Violator%2C%20Cover%20art.jpeg",
         "Rank": 120,
         "Year": 1990
-    },"Fun House": {
+    },
+    "Fun House": {
         "Artist": "The Stooges",
-        "Genres": ["Garage Rock", "Hard Rock", "Proto-Punk"],
+        "Genres": [
+            "Garage Rock",
+            "Hard Rock",
+            "Proto-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b1f8d17d731ddce3efe4414d44b3a85c/2522185/The%20Stooges%20-%20Fun%20House%2C%20Cover%20art.jpeg",
         "Rank": 121,
         "Year": 1970
-    },"After the Gold Rush": {
+    },
+    "After the Gold Rush": {
         "Artist": "Neil Young",
-        "Genres": ["Country Rock", "Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Country Rock",
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2e6aaf7fb549ddc860b8e41b7f3541cd/10221923/Neil%20Young%20-%20After%20the%20Gold%20Rush%2C%20Cover%20art.jpeg",
         "Rank": 122,
         "Year": 1970
-    },"London Calling": {
+    },
+    "London Calling": {
         "Artist": "The Clash",
-        "Genres": ["New Wave", "Punk Rock"],
+        "Genres": [
+            "New Wave",
+            "Punk Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0dc29e7ca6b1adfabdeb51a4076e319e/10010379/The%20Clash%20-%20London%20Calling%2C%20Cover%20art.jpeg",
         "Rank": 123,
         "Year": 1979
-    },"Leaves Turn Inside You": {
+    },
+    "Leaves Turn Inside You": {
         "Artist": "Unwound",
-        "Genres": ["Indie Rock", "Post-Hardcore"],
+        "Genres": [
+            "Indie Rock",
+            "Post-Hardcore"
+        ],
         "Image": "https://e.snmc.io/i/300/s/84f530fa2c872045b8367b832af1ce6f/8718251/Unwound%20-%20Leaves%20Turn%20Inside%20You%2C%20Cover%20art.jpeg",
         "Rank": 124,
         "Year": 2001
-    },"A Moon Shaped Pool": {
+    },
+    "A Moon Shaped Pool": {
         "Artist": "Radiohead",
-        "Genres": ["Art Pop", "Art Rock", "Chamber Pop"],
+        "Genres": [
+            "Art Pop",
+            "Art Rock",
+            "Chamber Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/dd092cc43b4ab9c3ea289941d514ec3c/6118638/Radiohead%20-%20A%20Moon%20Shaped%20Pool%2C%20Cover%20art.jpeg",
         "Rank": 125,
         "Year": 2016
-    },"Bringing It All Back Home": {
+    },
+    "Bringing It All Back Home": {
         "Artist": "Bob Dylan",
-        "Genres": ["Contemporary Folk", "Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Contemporary Folk",
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/5e33ec71a4112664c8c5ea9de9ffb56c/10941432/Bob%20Dylan%20-%20Bringing%20It%20All%20Back%20Home%2C%20Cover%20art.jpeg",
         "Rank": 126,
         "Year": 1965
-    },"White Light / White Heat": {
+    },
+    "White Light / White Heat": {
         "Artist": "The Velvet Underground",
-        "Genres": ["Experimental Rock", "Noise Rock", "Proto-Punk"],
+        "Genres": [
+            "Experimental Rock",
+            "Noise Rock",
+            "Proto-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/8f3ef8cc3aec8914c2bd11c551c463a2/7520508/The%20Velvet%20Underground%20-%20White%20Light%20%2F%20White%20Heat%2C%20Cover%20art.jpeg",
         "Rank": 127,
         "Year": 1968
-    },"Love Deluxe": {
+    },
+    "Love Deluxe": {
         "Artist": "Sade",
-        "Genres": ["Downtempo", "Smooth Soul", "Sophisti-Pop"],
+        "Genres": [
+            "Downtempo",
+            "Smooth Soul",
+            "Sophisti-Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/75a5e92d0323b3fa66ca4e43c58d0e4d/8483266/Sade%20-%20Love%20Deluxe%2C%20Cover%20art.jpeg",
         "Rank": 128,
         "Year": 1992
-    },"Journey in Satchidananda": {
+    },
+    "Journey in Satchidananda": {
         "Artist": "Alice Coltrane featuring Pharoah Sanders",
-        "Genres": ["Spiritual Jazz"],
+        "Genres": [
+            "Spiritual Jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/779656e522b2555b0b50f5877bb73368/2915758/Alice%20Coltrane%20featuring%20Pharoah%20Sanders%20-%20Journey%20in%20Satchidananda%2C%20Cover%20art.jpeg",
         "Rank": 129,
         "Year": 1971
-    },"Ys": {
+    },
+    "Ys": {
         "Artist": "Joanna Newsom",
-        "Genres": ["Chamber Folk", "Progressive Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Chamber Folk",
+            "Progressive Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c8462c4b85fcbb53c200107ca6c7201a/7851102/Joanna%20Newsom%20-%20Ys%2C%20Cover%20art.jpeg",
         "Rank": 130,
         "Year": 2006
-    },"The Dreaming": {
+    },
+    "The Dreaming": {
         "Artist": "Kate Bush",
-        "Genres": ["Art Pop", "Progressive Pop"],
+        "Genres": [
+            "Art Pop",
+            "Progressive Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b2d18f92e9c59ec95eeb6882a5ed7284/2340663/Kate%20Bush%20-%20The%20Dreaming%2C%20Cover%20art.jpeg",
         "Rank": 131,
         "Year": 1982
-    },"Rust Never Sleeps": {
+    },
+    "Rust Never Sleeps": {
         "Artist": "Neil Young",
-        "Genres": ["Country Rock", "Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Country Rock",
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0fb5ff15669f81de410e4627134451cd/11522618/Neil%20Young%20%26%20Crazy%20Horse%20-%20Rust%20Never%20Sleeps%2C%20Cover%20art.jpeg",
         "Rank": 132,
         "Year": 1979
-    },"Hunky Dory": {
+    },
+    "Hunky Dory": {
         "Artist": "David Bowie",
-        "Genres": ["Art Rock", "Glam Rock", "Pop Rock"],
+        "Genres": [
+            "Art Rock",
+            "Glam Rock",
+            "Pop Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f68f36d8b7b3fb6c9b88680348246df8/8053232/David%20Bowie%20-%20Hunky%20Dory%2C%20Cover%20art.jpeg",
         "Rank": 133,
         "Year": 1971
-    },"Twin Fantasy": {
+    },
+    "Twin Fantasy": {
         "Artist": "Car Seat Headrest",
-        "Genres": ["Indie Rock"],
+        "Genres": [
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/38d6b4eece9e1dfccd16a126a4f076c9/10085703/Car%20Seat%20Headrest%20-%20Twin%20Fantasy%2C%20Cover%20art.jpeg",
         "Rank": 134,
         "Year": 2018
-    },"Mingus Ah Um": {
+    },
+    "Mingus Ah Um": {
         "Artist": "Charles Mingus",
-        "Genres": ["Post-Bop"],
+        "Genres": [
+            "Post-Bop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f25cffc27c3b045d78898d6683450bb3/10765518/Charles%20Mingus%20-%20Mingus%20Ah%20Um%2C%20Cover%20art.jpeg",
         "Rank": 135,
         "Year": 1959
-    },"Rain Dogs": {
+    },
+    "Rain Dogs": {
         "Artist": "Tom Waits",
-        "Genres": ["Experimental Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Experimental Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9fc73adb25567aacbff5983af58ab111/9308160/Tom%20Waits%20-%20Rain%20Dogs%2C%20Cover%20art.jpeg",
         "Rank": 136,
         "Year": 1985
-    },"ATLiens": {
+    },
+    "ATLiens": {
         "Artist": "OutKast",
-        "Genres": ["Southern Hip Hop"],
+        "Genres": [
+            "Southern Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1313a28ed883b52d385a6a2b95e4edba/6710752/OutKast%20-%20ATLiens%2C%20Cover%20art.jpeg",
         "Rank": 137,
         "Year": 1996
-    },"Music Has the Right to Children": {
+    },
+    "Music Has the Right to Children": {
         "Artist": "Boards of Canada",
-        "Genres": ["Downtempo", "IDM"],
+        "Genres": [
+            "Downtempo",
+            "IDM"
+        ],
         "Image": "https://e.snmc.io/i/300/s/fe9008be140fb60395f714814871b6f1/2371321/Boards%20of%20Canada%20-%20Music%20Has%20the%20Right%20to%20Children%2C%20Cover%20art.jpeg",
         "Rank": 138,
         "Year": 1998
-    },"Odessey and Oracle": {
+    },
+    "Odessey and Oracle": {
         "Artist": "The Zombies",
-        "Genres": ["Baroque Pop", "Psychedelic Pop"],
+        "Genres": [
+            "Baroque Pop",
+            "Psychedelic Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f6293ed980d19290a6634bde7e5fd90a/10607815/The%20Zombies%20-%20Odessey%20and%20Oracle%2C%20Cover%20art.jpeg",
         "Rank": 139,
         "Year": 1968
-    },"Post": {
+    },
+    "Post": {
         "Artist": "Björk",
-        "Genres": ["Art Pop", "Electronic"],
+        "Genres": [
+            "Art Pop",
+            "Electronic"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9dade3f7bfd3b7fda2fc00e384830154/10003396/Bj%C3%B6rk%20-%20Post%2C%20Cover%20art.jpeg",
         "Rank": 140,
         "Year": 1995
-    },"On the Beach": {
+    },
+    "On the Beach": {
         "Artist": "Neil Young",
-        "Genres": ["Country Rock", "Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Country Rock",
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/886ac6daf5d7de0b6c020c6580f9f6b7/2663737/Neil%20Young%20-%20On%20the%20Beach%2C%20Cover%20art.jpeg",
         "Rank": 141,
         "Year": 1974
-    },"Ready to Die": {
+    },
+    "Ready to Die": {
         "Artist": "The Notorious B.I.G.",
-        "Genres": ["Boom Bap", "East Coast Hip Hop", "Gangsta Rap"],
+        "Genres": [
+            "Boom Bap",
+            "East Coast Hip Hop",
+            "Gangsta Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d138deb96355e49b35eb235de81d08a7/6700517/The%20Notorious%20B_I_G_%20-%20Ready%20to%20Die%2C%20Cover%20art.jpeg",
         "Rank": 142,
         "Year": 1994
-    },"The Magnolia Electric Co": {
+    },
+    "The Magnolia Electric Co": {
         "Artist": "Songs: Ohia",
-        "Genres": ["Alt-Country", "Country Rock", "Indie Rock"],
+        "Genres": [
+            "Alt-Country",
+            "Country Rock",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/aea7d005a991197e8ae230aa23a06d0f/1322561/Songs%3A%20Ohia%20-%20The%20Magnolia%20Electric%20Co%2C%20Cover%20art.jpeg",
         "Rank": 143,
         "Year": 2003
-    },"You Will Never Know Why": {
+    },
+    "You Will Never Know Why": {
         "Artist": "Sweet Trip",
-        "Genres": ["Dream Pop", "Indie Pop", "Indie Rock"],
+        "Genres": [
+            "Dream Pop",
+            "Indie Pop",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d0250f4c12e22279154a23542604fb5a/3927324/Sweet%20Trip%20-%20You%20Will%20Never%20Know%20Why%2C%20Cover%20art.png",
         "Rank": 144,
         "Year": 2009
-    },"When the Pawn": {
+    },
+    "When the Pawn": {
         "Artist": "Fiona Apple",
-        "Genres": ["Alternative Rock", "Piano Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Alternative Rock",
+            "Piano Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/472e90fdb9a3e4fae5bbceec7a008cda/11666558/Fiona%20Apple%20-%20When%20the%20Pawn%2C%20Cover%20art.jpeg",
         "Rank": 145,
         "Year": 1999
-    },"Untrue": {
+    },
+    "Untrue": {
         "Artist": "Burial",
-        "Genres": ["Dubstep", "Future Garage"],
+        "Genres": [
+            "Dubstep",
+            "Future Garage"
+        ],
         "Image": "https://e.snmc.io/i/300/s/55e5da829dc753ecdc6e7c8f43ca1915/5801416/Burial%20-%20Untrue%2C%20Cover%20art.jpeg",
         "Rank": 146,
         "Year": 2007
-    },"LP!": {
+    },
+    "LP!": {
         "Artist": "JPEGMAFIA",
-        "Genres": ["Experimental Hip Hop", "Hardcore Hip Hop"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Hardcore Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/8545c329c8a92cd2cc1d3d7e4e1a75a4/11577317/JPEGMAFIA%20-%20LP!%2C%20Cover%20art.jpeg",
         "Rank": 147,
         "Year": 2021
-    },"Rust in Peace": {
+    },
+    "Rust in Peace": {
         "Artist": "Megadeth",
-        "Genres": ["Thrash Metal"],
+        "Genres": [
+            "Thrash Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d81873c9de5d3300443246e11934e9c3/5748025/Megadeth%20-%20Rust%20in%20Peace%2C%20Cover%20art.jpeg",
         "Rank": 148,
         "Year": 1990
-    },"Toxicity": {
+    },
+    "Toxicity": {
         "Artist": "System of a Down",
-        "Genres": ["Alternative Metal"],
+        "Genres": [
+            "Alternative Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2a6d703e93850e9a6bfa6d95b1de4c79/5642354/System%20of%20a%20Down%20-%20Toxicity%2C%20Cover%20art.jpeg",
         "Rank": 149,
         "Year": 2001
-    },"Geogaddi": {
+    },
+    "Geogaddi": {
         "Artist": "Boards of Canada",
-        "Genres": ["IDM"],
+        "Genres": [
+            "IDM"
+        ],
         "Image": "https://e.snmc.io/i/300/s/947111c75a0815f58e911a0a6c286f88/8978621/Boards%20of%20Canada%20-%20Geogaddi%2C%20Cover%20art.jpeg",
         "Rank": 150,
         "Year": 2002
-    },"We got it from Here… Thank You 4 Your service": {
+    },
+    "We got it from Here… Thank You 4 Your service": {
         "Artist": "A Tribe Called Quest",
-        "Genres": ["Conscious Hip Hop", "East Coast Hip Hop", "Jazz Rap"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "East Coast Hip Hop",
+            "Jazz Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7d700179ced6cc5e6d7f12110391dc6d/11395810/A%20Tribe%20Called%20Quest%20-%20We%20got%20it%20from%20Here%E2%80%A6%20Thank%20You%204%20Your%20service%2C%20Cover%20art.jpeg",
         "Rank": 151,
         "Year": 2016
-    },"Flower Boy": {
+    },
+    "Flower Boy": {
         "Artist": "Tyler, the Creator",
-        "Genres": ["Neo-Soul", "West Coast Hip Hop"],
+        "Genres": [
+            "Neo-Soul",
+            "West Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2dbdb8bb28e9ac769f5b91dade28488e/7125159/Tyler%2C%20the%20Creator%20-%20Flower%20Boy%2C%20Cover%20art.jpeg",
         "Rank": 152,
         "Year": 2017
-    },"Titanic Rising": {
+    },
+    "Titanic Rising": {
         "Artist": "Weyes Blood",
-        "Genres": ["Art Pop", "Baroque Pop"],
+        "Genres": [
+            "Art Pop",
+            "Baroque Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/e4cdeb9224ece9cc61ea11d900f528e7/9823576/Weyes%20Blood%20-%20Titanic%20Rising%2C%20Cover%20art.jpeg",
         "Rank": 153,
         "Year": 2019
-    },"Five Leaves Left": {
+    },
+    "Five Leaves Left": {
         "Artist": "Nick Drake",
-        "Genres": ["Chamber Folk", "Contemporary Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Chamber Folk",
+            "Contemporary Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4b8d6541ef0e38378605d50e3dd2f409/11292503/Nick%20Drake%20-%20Five%20Leaves%20Left%2C%20Cover%20art.jpeg",
         "Rank": 154,
         "Year": 1969
-    },"Perfect From Now On": {
+    },
+    "Perfect From Now On": {
         "Artist": "Built to Spill",
-        "Genres": ["Indie Rock"],
+        "Genres": [
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/620bab76e804e4ab0b7ab2cdc2290746/12168401/Built%20to%20Spill%20-%20Perfect%20From%20Now%20On%2C%20Cover%20art.jpeg",
         "Rank": 155,
         "Year": 1997
-    },"Funeral": {
+    },
+    "Funeral": {
         "Artist": "Arcade Fire",
-        "Genres": ["Chamber Pop", "Indie Rock"],
+        "Genres": [
+            "Chamber Pop",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ce7e60212fcebfd7f0b26aa511099361/11866170/Arcade%20Fire%20-%20Funeral%2C%20Cover%20art.jpeg",
         "Rank": 156,
         "Year": 2004
-    },"Another Green World": {
+    },
+    "Another Green World": {
         "Artist": "Eno",
-        "Genres": ["Ambient", "Art Rock"],
+        "Genres": [
+            "Ambient",
+            "Art Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7210ece7a90a43da067e19db616b7543/2317304/Eno%20-%20Another%20Green%20World%2C%20Cover%20art.jpeg",
         "Rank": 157,
         "Year": 1975
-    },"Siamese Dream": {
+    },
+    "Siamese Dream": {
         "Artist": "Smashing Pumpkins",
-        "Genres": ["Alternative Rock"],
+        "Genres": [
+            "Alternative Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/63ee057b006f02716e5d6cc361c45adc/8796183/Smashing%20Pumpkins%20-%20Siamese%20Dream%2C%20Cover%20art.jpeg",
         "Rank": 158,
         "Year": 1993
-    },"Meddle": {
+    },
+    "Meddle": {
         "Artist": "Pink Floyd",
-        "Genres": ["Progressive Rock"],
+        "Genres": [
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/429571414641a4727e8492d7a7c78c5b/10432882/Pink%20Floyd%20-%20Meddle%2C%20Cover%20art.jpeg",
         "Rank": 159,
         "Year": 1971
-    },"Jenny Death: The Powers That B Disc 2": {
+    },
+    "Jenny Death: The Powers That B Disc 2": {
         "Artist": "Death Grips",
-        "Genres": ["Experimental Hip Hop", "Industrial Hip Hop", "Noise Rock"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Industrial Hip Hop",
+            "Noise Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/38168219a008ce9cba507d4c465cc79d/8523924/Death%20Grips%20-%20Jenny%20Death%3A%20The%20Powers%20That%20B%20Disc%202%2C%20Cover%20art.jpeg",
         "Rank": 160,
         "Year": 2015
-    },"Black on Both Sides": {
+    },
+    "Black on Both Sides": {
         "Artist": "Mos Def",
-        "Genres": ["Conscious Hip Hop", "East Coast Hip Hop"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "East Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2152c629e23f53325bd3521f58dfe83b/1953135/Mos%20Def%20-%20Black%20on%20Both%20Sides%2C%20Cover%20art.jpeg",
         "Rank": 161,
         "Year": 1999
-    },"Acabou chorare": {
+    },
+    "Acabou chorare": {
         "Artist": "Novos Baianos",
-        "Genres": ["MPB", "Samba"],
+        "Genres": [
+            "MPB",
+            "Samba"
+        ],
         "Image": "https://e.snmc.io/i/300/s/22c32d5fe634111630a7efb268459da0/12240507/Novos%20Baianos%20-%20Acabou%20chorare%2C%20Cover%20art.jpeg",
         "Rank": 162,
         "Year": 1972
-    },"Thriller": {
+    },
+    "Thriller": {
         "Artist": "Michael Jackson",
-        "Genres": ["Contemporary R&amp;B", "Dance-Pop", "Pop"],
+        "Genres": [
+            "Contemporary R&amp;B",
+            "Dance-Pop",
+            "Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b6dcab690fed433652d0b5f91a3814a6/11486295/Michael%20Jackson%20-%20Thriller%2C%20Cover%20art.jpeg",
         "Rank": 163,
         "Year": 1982
-    },"Larks' Tongues in Aspic": {
+    },
+    "Larks' Tongues in Aspic": {
         "Artist": "King Crimson",
-        "Genres": ["Avant-Prog", "Progressive Rock"],
+        "Genres": [
+            "Avant-Prog",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9cac8876fe18ade0db6aaeb018b1de69/8549123/King%20Crimson%20-%20Larks'%20Tongues%20in%20Aspic%2C%20Cover%20art.jpeg",
         "Rank": 164,
         "Year": 1973
-    },"Rage Against the Machine": {
+    },
+    "Rage Against the Machine": {
         "Artist": "Rage Against the Machine",
-        "Genres": ["Rap Metal"],
+        "Genres": [
+            "Rap Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/613fa14c18ee31dd60675c41910a2599/11966192/Rage%20Against%20the%20Machine%20-%20Rage%20Against%20the%20Machine%2C%20Cover%20art.jpeg",
         "Rank": 165,
         "Year": 1992
-    },"\"Heroes\"": {
+    },
+    "\"Heroes\"": {
         "Artist": "David Bowie",
-        "Genres": ["Art Rock"],
+        "Genres": [
+            "Art Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/bbb33534a978ce4f170ff35d623a4961/8543787/David%20Bowie%20-%20%22Heroes%22%2C%20Cover%20art.jpeg",
         "Rank": 166,
         "Year": 1977
-    },"Flood": {
+    },
+    "Flood": {
         "Artist": "Boris",
-        "Genres": ["Drone", "Post-Rock"],
+        "Genres": [
+            "Drone",
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/04fc474282aa07ac0ea81b8b26e70b1b/8412761/Boris%20-%20Flood%2C%20Cover%20art.jpeg",
         "Rank": 167,
         "Year": 2000
-    },"Turn on the Bright Lights": {
+    },
+    "Turn on the Bright Lights": {
         "Artist": "Interpol",
-        "Genres": ["Post-Punk Revival"],
+        "Genres": [
+            "Post-Punk Revival"
+        ],
         "Image": "https://e.snmc.io/i/300/s/585cb9f9dc1826e4294e8d3a1655f412/10531708/Interpol%20-%20Turn%20on%20the%20Bright%20Lights%2C%20Cover%20art.png",
         "Rank": 168,
         "Year": 2002
-    },"Songs for the Deaf": {
+    },
+    "Songs for the Deaf": {
         "Artist": "Queens of the Stone Age",
-        "Genres": ["Alternative Rock", "Stoner Rock"],
+        "Genres": [
+            "Alternative Rock",
+            "Stoner Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ea768986bd24c3994c624d508e9bc4da/12292492/Queens%20of%20the%20Stone%20Age%20-%20Songs%20for%20the%20Deaf%2C%20Cover%20art.png",
         "Rank": 169,
         "Year": 2002
-    },"Dopethrone": {
+    },
+    "Dopethrone": {
         "Artist": "Electric Wizard",
-        "Genres": ["Doom Metal", "Stoner Metal"],
+        "Genres": [
+            "Doom Metal",
+            "Stoner Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b328650fe7ce6454c1e2169c34e96c08/2689526/Electric%20Wizard%20-%20Dopethrone%2C%20Cover%20art.jpeg",
         "Rank": 170,
         "Year": 2000
-    },"The Miseducation of Lauryn Hill": {
+    },
+    "The Miseducation of Lauryn Hill": {
         "Artist": "Lauryn Hill",
-        "Genres": ["Contemporary R&amp;B", "East Coast Hip Hop", "Neo-Soul"],
+        "Genres": [
+            "Contemporary R&amp;B",
+            "East Coast Hip Hop",
+            "Neo-Soul"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4bf16f99379d3808eba92b600a214971/12322572/Lauryn%20Hill%20-%20The%20Miseducation%20of%20Lauryn%20Hill%2C%20Cover%20art.jpeg",
         "Rank": 171,
         "Year": 1998
-    },"Fear of Music": {
+    },
+    "Fear of Music": {
         "Artist": "Talking Heads",
-        "Genres": ["New Wave", "Post-Punk"],
+        "Genres": [
+            "New Wave",
+            "Post-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/14e1c8f5c66a713db85eb92c0372ee2e/12194583/Talking%20Heads%20-%20Fear%20of%20Music%2C%20Cover%20art.jpeg",
         "Rank": 172,
         "Year": 1979
-    },"Songs of Love and Hate": {
+    },
+    "Songs of Love and Hate": {
         "Artist": "Leonard Cohen",
-        "Genres": ["Contemporary Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Contemporary Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/bbc6ace0440612b4d42635f0ec33e31d/7303903/Leonard%20Cohen%20-%20Songs%20of%20Love%20and%20Hate%2C%20Cover%20art.jpeg",
         "Rank": 173,
         "Year": 1971
-    },"White Pony": {
+    },
+    "White Pony": {
         "Artist": "Deftones",
-        "Genres": ["Alternative Metal"],
+        "Genres": [
+            "Alternative Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/02568e631d657131ee26c1ab3b68af19/10815106/Deftones%20-%20White%20Pony%2C%20Cover%20art.jpeg",
         "Rank": 174,
         "Year": 2000
-    },"Mount Eerie": {
+    },
+    "Mount Eerie": {
         "Artist": "The Microphones",
-        "Genres": ["Avant-Folk", "Psychedelic Folk"],
+        "Genres": [
+            "Avant-Folk",
+            "Psychedelic Folk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/49a1f5bf7160020dd4fbeac86ad27d90/10894376/The%20Microphones%20-%20Mount%20Eerie%2C%20Cover%20art.jpeg",
         "Rank": 175,
         "Year": 2003
-    },"Ege Bamyası": {
+    },
+    "Ege Bamyası": {
         "Artist": "Can",
-        "Genres": ["Krautrock"],
+        "Genres": [
+            "Krautrock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2e2334b22cab8521a519c27df8c0fa06/2513986/Can%20-%20Ege%20Bamyas%C4%B1%2C%20Cover%20art.jpeg",
         "Rank": 176,
         "Year": 1972
-    },"Discipline": {
+    },
+    "Discipline": {
         "Artist": "King Crimson",
-        "Genres": ["Art Rock", "New Wave", "Progressive Rock"],
+        "Genres": [
+            "Art Rock",
+            "New Wave",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/dbffdd87ad2ddb00ba972140c1c70a45/6177699/King%20Crimson%20-%20Discipline%2C%20Cover%20art.png",
         "Rank": 177,
         "Year": 1981
-    },"The Bends": {
+    },
+    "The Bends": {
         "Artist": "Radiohead",
-        "Genres": ["Alternative Rock"],
+        "Genres": [
+            "Alternative Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1be3be27fa52015b283a7acb9235ea3a/10134177/Radiohead%20-%20The%20Bends%2C%20Cover%20art.jpeg",
         "Rank": 178,
         "Year": 1995
-    },"宇宙 日本 世田谷 (Uchu Nippon Setagaya)": {
+    },
+    "宇宙 日本 世田谷 (Uchu Nippon Setagaya)": {
         "Artist": "Fishmans",
-        "Genres": ["Ambient Pop", "Downtempo", "Dream Pop"],
+        "Genres": [
+            "Ambient Pop",
+            "Downtempo",
+            "Dream Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/fccb1f3964a1dec5a1470a7c27586235/11149766/Fishmans%20-%20%E5%AE%87%E5%AE%99%20%E6%97%A5%E6%9C%AC%20%E4%B8%96%E7%94%B0%E8%B0%B7%20(Uchu%20Nippon%20Setagaya)%2C%20Cover%20art.png",
         "Rank": 179,
         "Year": 1997
-    },"El jardín de los presentes": {
+    },
+    "El jardín de los presentes": {
         "Artist": "Invisible",
-        "Genres": ["Art Rock", "Progressive Rock"],
+        "Genres": [
+            "Art Rock",
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6a5531402d3bc15a565c103db2319ffc/11805885/Invisible%20-%20El%20jard%C3%ADn%20de%20los%20presentes%2C%20Cover%20art.png",
         "Rank": 180,
         "Year": 1976
-    },"Fôrça bruta": {
+    },
+    "Fôrça bruta": {
         "Artist": "Jorge Ben",
-        "Genres": ["MPB", "Samba Soul", "Samba-rock"],
+        "Genres": [
+            "MPB",
+            "Samba Soul",
+            "Samba-rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/64c221555cc793baf59226d3597b65d1/11591211/Jorge%20Ben%20-%20F%C3%B4r%C3%A7a%20bruta%2C%20Cover%20art.jpeg",
         "Rank": 181,
         "Year": 1970
-    },"Boris at Last -Feedbacker-": {
+    },
+    "Boris at Last -Feedbacker-": {
         "Artist": "Boris",
-        "Genres": ["Drone", "Drone Metal", "Post-Metal"],
+        "Genres": [
+            "Drone",
+            "Drone Metal",
+            "Post-Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/918e78dd9e85110ad31ac58c0543b547/7727830/Boris%20-%20Boris%20at%20Last%20-Feedbacker-%2C%20Cover%20art.jpeg",
         "Rank": 182,
         "Year": 2003
-    },"Get Up With It": {
+    },
+    "Get Up With It": {
         "Artist": "Miles Davis",
-        "Genres": ["Avant-Garde Jazz", "Jazz Fusion", "Jazz-Funk"],
+        "Genres": [
+            "Avant-Garde Jazz",
+            "Jazz Fusion",
+            "Jazz-Funk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ce7deab4d065a6335629b824985304ce/10774209/Miles%20Davis%20-%20Get%20Up%20With%20It%2C%20Cover%20art.jpeg",
         "Rank": 183,
         "Year": 1974
-    },"Stratosphere": {
+    },
+    "Stratosphere": {
         "Artist": "Duster",
-        "Genres": ["Slacker Rock", "Slowcore"],
+        "Genres": [
+            "Slacker Rock",
+            "Slowcore"
+        ],
         "Image": "https://e.snmc.io/i/300/s/167eb99310cd2ef1091f3a6bc8845502/6545576/Duster%20-%20Stratosphere%2C%20Cover%20art.jpeg",
         "Rank": 184,
         "Year": 1998
-    },"Expensive Shit": {
+    },
+    "Expensive Shit": {
         "Artist": "Fela Kuti",
-        "Genres": ["Afrobeat"],
+        "Genres": [
+            "Afrobeat"
+        ],
         "Image": "https://e.snmc.io/i/300/s/335417b656cc3da8f6150f10c09688a4/6031464/Fela%20Ransome%20Kuti%20%26%20Africa%2070%20-%20Expensive%20Shit%2C%20Cover%20art.jpeg",
         "Rank": 185,
         "Year": 1975
-    },"Townes Van Zandt": {
+    },
+    "Townes Van Zandt": {
         "Artist": "Townes Van Zandt",
-        "Genres": ["Contemporary Folk", "Country", "Singer-Songwriter"],
+        "Genres": [
+            "Contemporary Folk",
+            "Country",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/eb7b499ea9d2d49fef28d7f6708cfd28/3393358/Townes%20Van%20Zandt%20-%20Townes%20Van%20Zandt%2C%20Cover%20art.jpeg",
         "Rank": 186,
         "Year": 1969
-    },"Art Blakey and The Jazz Messengers [Moanin']": {
+    },
+    "Art Blakey and The Jazz Messengers [Moanin']": {
         "Artist": "Art Blakey and The Jazz Messengers",
-        "Genres": ["Hard Bop"],
+        "Genres": [
+            "Hard Bop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/52d7e4ee96da94212dfc2e6271ee63e8/12121227/Art%20Blakey%20and%20The%20Jazz%20Messengers%20-%20Art%20Blakey%20and%20The%20Jazz%20Messengers%20%5BMoanin'%5D%2C%20Cover%20art.png",
         "Rank": 187,
         "Year": 1959
-    },"Everybody Knows This Is Nowhere": {
+    },
+    "Everybody Knows This Is Nowhere": {
         "Artist": "Neil Young",
-        "Genres": ["Country Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Country Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/81827395e3f01e811f092affd458ca5b/7227338/Neil%20Young%20with%20Crazy%20Horse%20-%20Everybody%20Knows%20This%20Is%20Nowhere%2C%20Cover%20art.jpeg",
         "Rank": 188,
         "Year": 1969
-    },"Painkiller": {
+    },
+    "Painkiller": {
         "Artist": "Judas Priest",
-        "Genres": ["Heavy Metal"],
+        "Genres": [
+            "Heavy Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/deebba76c7736a203341cfa1411b9194/6723368/Judas%20Priest%20-%20Painkiller%2C%20Cover%20art.jpeg",
         "Rank": 189,
         "Year": 1990
-    },"Dirt": {
+    },
+    "Dirt": {
         "Artist": "Alice in Chains",
-        "Genres": ["Alternative Metal", "Grunge"],
+        "Genres": [
+            "Alternative Metal",
+            "Grunge"
+        ],
         "Image": "https://e.snmc.io/i/300/s/97314f1550a92d01c1a608cd3065c4ed/11429499/Alice%20in%20Chains%20-%20Dirt%2C%20Cover%20art.jpeg",
         "Rank": 190,
         "Year": 1992
-    },"The Seer": {
+    },
+    "The Seer": {
         "Artist": "Swans",
-        "Genres": ["Experimental Rock", "Post-Rock"],
+        "Genres": [
+            "Experimental Rock",
+            "Post-Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/242de614932986662cb0f7562002bd33/9434445/Swans%20-%20The%20Seer%2C%20Cover%20art.jpeg",
         "Rank": 191,
         "Year": 2012
-    },"First Utterance": {
+    },
+    "First Utterance": {
         "Artist": "Comus",
-        "Genres": ["Progressive Folk", "Psychedelic Folk"],
+        "Genres": [
+            "Progressive Folk",
+            "Psychedelic Folk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0a7bed0a837a2c200492404aea6f25c8/5417727/Comus%20-%20First%20Utterance%2C%20Cover%20art.jpeg",
         "Rank": 192,
         "Year": 1971
-    },"The Stone Roses": {
+    },
+    "The Stone Roses": {
         "Artist": "The Stone Roses",
-        "Genres": ["Baggy", "Indie Rock"],
+        "Genres": [
+            "Baggy",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/616116113f385ab8f0725f61a49df391/10835125/The%20Stone%20Roses%20-%20The%20Stone%20Roses%2C%20Cover%20art.jpeg",
         "Rank": 193,
         "Year": 1989
-    },"Yeezus": {
+    },
+    "Yeezus": {
         "Artist": "Kanye West",
-        "Genres": ["Experimental Hip Hop", "Industrial Hip Hop"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Industrial Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1e56db155cfaaffaa1f3049f7d1a8c3a/9558628/Kanye%20West%20-%20Yeezus%2C%20Cover%20art.png",
         "Rank": 194,
         "Year": 2013
-    },"KIDS SEE GHOSTS": {
+    },
+    "KIDS SEE GHOSTS": {
         "Artist": "KIDS SEE GHOSTS",
-        "Genres": ["Experimental Hip Hop", "Pop Rap"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Pop Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/27b85e6d0967b894a9961f1f85f35c74/7025219/KIDS%20SEE%20GHOSTS%20-%20KIDS%20SEE%20GHOSTS%2C%20Cover%20art.jpeg",
         "Rank": 195,
         "Year": 2018
-    },"Head Hunters": {
+    },
+    "Head Hunters": {
         "Artist": "Herbie Hancock",
-        "Genres": ["Jazz Fusion", "Jazz-Funk"],
+        "Genres": [
+            "Jazz Fusion",
+            "Jazz-Funk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/df4d2dc67c91323b569a072912b95082/11529460/Herbie%20Hancock%20-%20Head%20Hunters%2C%20Cover%20art.png",
         "Rank": 196,
         "Year": 1973
-    },"Curtis": {
+    },
+    "Curtis": {
         "Artist": "Curtis Mayfield",
-        "Genres": ["Chicago Soul"],
+        "Genres": [
+            "Chicago Soul"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2221dec5c28a78e784ad8e1efe7f40a5/1928507/Curtis%20Mayfield%20-%20Curtis%2C%20Cover%20art.jpeg",
         "Rank": 197,
         "Year": 1970
-    },"Lateralus": {
+    },
+    "Lateralus": {
         "Artist": "Tool",
-        "Genres": ["Alternative Metal", "Progressive Metal"],
+        "Genres": [
+            "Alternative Metal",
+            "Progressive Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/61d367f522501e8e8b4342f9b681a658/8591911/Tool%20-%20Lateralus%2C%20Cover%20art.jpeg",
         "Rank": 198,
         "Year": 2001
-    },"Sometimes I Might Be Introvert": {
+    },
+    "Sometimes I Might Be Introvert": {
         "Artist": "Little Simz",
-        "Genres": ["Conscious Hip Hop", "UK Hip Hop"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "UK Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ccfd096623a63ed23a1a18cc44dcceb3/9491076/Little%20Simz%20-%20Sometimes%20I%20Might%20Be%20Introvert%2C%20Cover%20art.jpeg",
         "Rank": 199,
         "Year": 2021
-    },"Jane Doe": {
+    },
+    "Jane Doe": {
         "Artist": "Converge",
-        "Genres": ["Mathcore", "Metalcore"],
+        "Genres": [
+            "Mathcore",
+            "Metalcore"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a9bfa1e99050004fbc08d025e0d0c62b/12263497/Converge%20-%20Jane%20Doe%2C%20Cover%20art.jpeg",
         "Rank": 200,
         "Year": 2001
     },
     "Sign \"☮︎\" the Times": {
         "Artist": "Prince",
-        "Genres": ["Contemporary R&amp;B"],
+        "Genres": [
+            "Contemporary R&amp;B"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b136de46866727b49a05defb82930b14/5233509/Prince%20-%20Sign%20%22%E2%98%AE%EF%B8%8E%22%20the%20Times%2C%20Cover%20art.jpeg",
         "Rank": 201,
         "Year": 1987
-    },"Aja": {
+    },
+    "Aja": {
         "Artist": "Steely Dan",
-        "Genres": ["Jazz-Rock", "Yacht Rock"],
+        "Genres": [
+            "Jazz-Rock",
+            "Yacht Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/be90ef3b29a785da23ec3f8d8652b6a0/12182517/Steely%20Dan%20-%20Aja%2C%20Cover%20art.jpeg",
         "Rank": 202,
         "Year": 1977
-    },"Treasure": {
+    },
+    "Treasure": {
         "Artist": "Cocteau Twins",
-        "Genres": ["Dream Pop", "Ethereal Wave"],
+        "Genres": [
+            "Dream Pop",
+            "Ethereal Wave"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b125c9ba8c4420722beb9fc390fc1d48/7023923/Cocteau%20Twins%20-%20Treasure%2C%20Cover%20art.png",
         "Rank": 203,
         "Year": 1984
-    },"Selling England by the Pound": {
+    },
+    "Selling England by the Pound": {
         "Artist": "Genesis",
-        "Genres": ["Progressive Rock", "Symphonic Prog"],
+        "Genres": [
+            "Progressive Rock",
+            "Symphonic Prog"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f4fde48582dc209a1d875b555914e46c/2716765/Genesis%20-%20Selling%20England%20by%20the%20Pound%2C%20Cover%20art.jpeg",
         "Rank": 204,
         "Year": 1973
-    },"IX. Symphonie": {
+    },
+    "IX. Symphonie": {
         "Artist": "Ludwig van Beethoven",
-        "Genres": ["Romanticism", "Symphony"],
+        "Genres": [
+            "Romanticism",
+            "Symphony"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c5f44ed6a5a121ef3a29c480a27491ff/10799994/Berliner%20Philharmoniker%20%2F%20Herbert%20von%20Karajan%20-%20IX_%20Symphonie%2C%20Cover%20art.jpeg",
         "Rank": 205,
         "Year": 1963
-    },"Powerslave": {
+    },
+    "Powerslave": {
         "Artist": "Iron Maiden",
-        "Genres": ["Heavy Metal"],
+        "Genres": [
+            "Heavy Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b008bc1f34f3d681d9633c4aa42a4b41/3703272/Iron%20Maiden%20-%20Powerslave%2C%20Cover%20art.jpeg",
         "Rank": 206,
         "Year": 1984
-    },"Artaud": {
+    },
+    "Artaud": {
         "Artist": "Pescado Rabioso",
-        "Genres": ["Art Rock", "Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Art Rock",
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/e8aa7edc61c30c99c2a0df28e9ce4a10/10939288/Pescado%20Rabioso%20-%20Artaud%2C%20Cover%20art.png",
         "Rank": 207,
         "Year": 1973
-    },"A Tábua de Esmeralda": {
+    },
+    "A Tábua de Esmeralda": {
         "Artist": "Jorge Ben",
-        "Genres": ["MPB", "Samba-rock"],
+        "Genres": [
+            "MPB",
+            "Samba-rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6135b667cc0f202775a5ede456c8af68/3472279/Jorge%20Ben%20-%20A%20T%C3%A1bua%20de%20Esmeralda%2C%20Cover%20art.jpeg",
         "Rank": 208,
         "Year": 1974
-    },"Construção": {
+    },
+    "Construção": {
         "Artist": "Chico Buarque",
-        "Genres": ["MPB", "Singer-Songwriter"],
+        "Genres": [
+            "MPB",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ffa3c0cbb57cecf164595199b1d2c496/4815780/Chico%20Buarque%20-%20Constru%C3%A7%C3%A3o%2C%20Cover%20art.jpeg",
         "Rank": 209,
         "Year": 1971
-    },"Let My Children Hear Music": {
+    },
+    "Let My Children Hear Music": {
         "Artist": "Charles Mingus",
-        "Genres": ["Experimental Big Band", "Third Stream"],
+        "Genres": [
+            "Experimental Big Band",
+            "Third Stream"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f98d9713ea422be96e8b84efab8c10e0/10811349/Charles%20Mingus%20-%20Let%20My%20Children%20Hear%20Music%2C%20Cover%20art.jpeg",
         "Rank": 210,
         "Year": 1972
-    },"Voodoo": {
+    },
+    "Voodoo": {
         "Artist": "D'Angelo",
-        "Genres": ["Neo-Soul"],
-        "Image": "https://e.snmc.io/i/300/s/d08066269478be8c61a2664c2b360757/2372396/D'Angelo%20-%20Voodoo%2C%20Cover%20art.jpeg",
+        "Genres": [
+            "Neo-Soul"
+        ],
+        "Image": "https://e.snmc.io/i/600/w/8582a6dabd0d63be02c7c54562f2b48c/2372396/dangelo-voodoo-Cover-Art.jpg",
         "Rank": 211,
         "Year": 2000
-    },"Bottomless Pit": {
+    },
+    "Bottomless Pit": {
         "Artist": "Death Grips",
-        "Genres": ["Abstract Hip Hop", "Experimental Hip Hop", "Industrial Hip Hop"],
+        "Genres": [
+            "Abstract Hip Hop",
+            "Experimental Hip Hop",
+            "Industrial Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7603bde69784c704126af06373aeb4d1/7574206/Death%20Grips%20-%20Bottomless%20Pit%2C%20Cover%20art.jpeg",
         "Rank": 212,
         "Year": 2016
-    },"Raw Power": {
+    },
+    "Raw Power": {
         "Artist": "The Stooges",
-        "Genres": ["Garage Rock", "Hard Rock", "Proto-Punk"],
+        "Genres": [
+            "Garage Rock",
+            "Hard Rock",
+            "Proto-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4408c900cc0f575e186f0f54f834925d/2220562/Iggy%20and%20The%20Stooges%20-%20Raw%20Power%2C%20Cover%20art.jpeg",
         "Rank": 213,
         "Year": 1973
-    },"Blue Train": {
+    },
+    "Blue Train": {
         "Artist": "John Coltrane",
-        "Genres": ["Hard Bop"],
+        "Genres": [
+            "Hard Bop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/8e8054823aeafe503735621348ac5675/12133686/John%20Coltrane%20-%20Blue%20Train%2C%20Cover%20art.png",
         "Rank": 214,
         "Year": 1958
-    },"Human": {
+    },
+    "Human": {
         "Artist": "Death",
-        "Genres": ["Death Metal", "Technical Death Metal"],
+        "Genres": [
+            "Death Metal",
+            "Technical Death Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/443b286aa53186cfb44b5ebc5b9760ac/2656313/Death%20-%20Human%2C%20Cover%20art.jpeg",
         "Rank": 215,
         "Year": 1991
-    },"Zombie": {
+    },
+    "Zombie": {
         "Artist": "Fela Kuti",
-        "Genres": ["Afrobeat"],
+        "Genres": [
+            "Afrobeat"
+        ],
         "Image": "https://e.snmc.io/i/300/s/54fee86c22aed0d34ba4bc70c402da8d/8693176/Fela%20Anikulapo%20Kuti%20and%20Afrika%2070%20-%20Zombie%2C%20Cover%20art.jpeg",
         "Rank": 216,
         "Year": 1977
-    },"Dots and Loops": {
+    },
+    "Dots and Loops": {
         "Artist": "Stereolab",
-        "Genres": ["Ambient Pop", "Art Pop", "Indietronica"],
+        "Genres": [
+            "Ambient Pop",
+            "Art Pop",
+            "Indietronica"
+        ],
         "Image": "https://e.snmc.io/i/300/s/50e751f256c0fcd1bde75952b07dd3f1/8820744/Stereolab%20-%20Dots%20and%20Loops%2C%20Cover%20art.jpeg",
         "Rank": 217,
         "Year": 1997
-    },"Quebec": {
+    },
+    "Quebec": {
         "Artist": "Ween",
-        "Genres": ["Alternative Rock", "Art Rock", "Neo-Psychedelia"],
+        "Genres": [
+            "Alternative Rock",
+            "Art Rock",
+            "Neo-Psychedelia"
+        ],
         "Image": "https://e.snmc.io/i/300/s/7add78d411d2ea2f2c72b676b9d1ef39/2625334/Ween%20-%20Quebec%2C%20Cover%20art.jpeg",
         "Rank": 218,
         "Year": 2003
-    },"Bocanada": {
+    },
+    "Bocanada": {
         "Artist": "Gustavo Cerati",
-        "Genres": ["Art Pop", "Downtempo", "Neo-Psychedelia"],
+        "Genres": [
+            "Art Pop",
+            "Downtempo",
+            "Neo-Psychedelia"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c20c0c9611e479680dd2f86518c268b8/10058214/Gustavo%20Cerati%20-%20Bocanada%2C%20Cover%20art.png",
         "Rank": 219,
         "Year": 1999
-    },"Have One on Me": {
+    },
+    "Have One on Me": {
         "Artist": "Joanna Newsom",
-        "Genres": ["Chamber Folk", "Progressive Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Chamber Folk",
+            "Progressive Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4204fb57e57258f229328d0dd2ee8b97/5213492/Joanna%20Newsom%20-%20Have%20One%20on%20Me%2C%20Cover%20art.jpeg",
         "Rank": 220,
         "Year": 2010
-    },"Elliott Smith": {
+    },
+    "Elliott Smith": {
         "Artist": "Elliott Smith",
-        "Genres": ["Indie Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a553a1ca871ea6645b49b5f355994d9e/11340504/Elliott%20Smith%20-%20Elliott%20Smith%2C%20Cover%20art.jpeg",
         "Rank": 221,
         "Year": 1995
-    },"Hellfire": {
+    },
+    "Hellfire": {
         "Artist": "black midi",
-        "Genres": ["Avant-Prog", "Brutal Prog"],
+        "Genres": [
+            "Avant-Prog",
+            "Brutal Prog"
+        ],
         "Image": "https://e.snmc.io/i/300/s/168e41c16f28e127260b10307ee03d84/9932087/black%20midi%20-%20Hellfire%2C%20Cover%20art.jpeg",
         "Rank": 222,
         "Year": 2022
-    },"Vaudeville Villain": {
+    },
+    "Vaudeville Villain": {
         "Artist": "Viktor Vaughn",
-        "Genres": ["Abstract Hip Hop", "East Coast Hip Hop"],
+        "Genres": [
+            "Abstract Hip Hop",
+            "East Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4fcaff2ab2e2605f08c7efe696e0315e/2476806/Viktor%20Vaughn%20-%20Vaudeville%20Villain%2C%20Cover%20art.jpeg",
         "Rank": 223,
         "Year": 2003
-    },"The Kinks Are the Village Green Preservation Society": {
+    },
+    "The Kinks Are the Village Green Preservation Society": {
         "Artist": "The Kinks",
-        "Genres": ["Pop Rock"],
+        "Genres": [
+            "Pop Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/93d97b0f6331012fd920071423001163/12175503/The%20Kinks%20-%20The%20Kinks%20Are%20the%20Village%20Green%20Preservation%20Society%2C%20Cover%20art.jpeg",
         "Rank": 224,
         "Year": 1968
-    },"Cosmo's Factory": {
+    },
+    "Cosmo's Factory": {
         "Artist": "Creedence Clearwater Revival",
-        "Genres": ["Swamp Rock"],
+        "Genres": [
+            "Swamp Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1dda3e8478716f4922c41986d9d35474/2283617/Creedence%20Clearwater%20Revival%20-%20Cosmo's%20Factory%2C%20Cover%20art.jpeg",
         "Rank": 225,
         "Year": 1970
-    },"Reign in Blood": {
+    },
+    "Reign in Blood": {
         "Artist": "Slayer",
-        "Genres": ["Thrash Metal"],
+        "Genres": [
+            "Thrash Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/fc38dc5e598369396fc6d482ca86aed0/2742603/Slayer%20-%20Reign%20in%20Blood%2C%20Cover%20art.jpeg",
         "Rank": 226,
         "Year": 1986
-    },"The Fire This Time": {
+    },
+    "The Fire This Time": {
         "Artist": "N/A",
-        "Genres": ["IDM", "Sound Collage", "Spoken Word"],
+        "Genres": [
+            "IDM",
+            "Sound Collage",
+            "Spoken Word"
+        ],
         "Image": "https://e.snmc.io/i/300/s/70a540b812637bc7ce4c117088ea31d2/10943162/Various%20Artists%20-%20The%20Fire%20This%20Time%2C%20Cover%20art.jpeg",
         "Rank": 227,
         "Year": 2002
-    },"Scaring the Hoes": {
+    },
+    "Scaring the Hoes": {
         "Artist": "JPEGMAFIA",
-        "Genres": ["Experimental Hip Hop", "Hardcore Hip Hop"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Hardcore Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/244163f6c6835599630812e50076f712/10795080/JPEGMAFIA%20x%20Danny%20Brown%20-%20Scaring%20the%20Hoes%2C%20Cover%20art.jpeg",
         "Rank": 228,
         "Year": 2023
-    },"Sticky Fingers": {
+    },
+    "Sticky Fingers": {
         "Artist": "The Rolling Stones",
-        "Genres": ["Blues Rock"],
+        "Genres": [
+            "Blues Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0a5603e988eedf97060459ae03b60da1/2748008/The%20Rolling%20Stones%20-%20Sticky%20Fingers%2C%20Cover%20art.jpeg",
         "Rank": 229,
         "Year": 1971
-    },"加爾基 精液 栗ノ花 (Kalk samen kuri no hana)": {
+    },
+    "加爾基 精液 栗ノ花 (Kalk samen kuri no hana)": {
         "Artist": "椎名林檎",
-        "Genres": ["Art Pop", "Art Rock", "Progressive Pop"],
+        "Genres": [
+            "Art Pop",
+            "Art Rock",
+            "Progressive Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2b4dcee938845169973fb69f566017d9/9625192/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E%20%5BSheena%20Ringo%5D%20-%20%E5%8A%A0%E7%88%BE%E5%9F%BA%20%E7%B2%BE%E6%B6%B2%20%E6%A0%97%E3%83%8E%E8%8A%B1%20(Kalk%20samen%20kuri%20no%20hana)%2C%20Cover%20art.png",
         "Rank": 230,
         "Year": 2003
-    },"Maggot Brain": {
+    },
+    "Maggot Brain": {
         "Artist": "Funkadelic",
-        "Genres": ["Funk Rock", "Psychedelic Rock"],
+        "Genres": [
+            "Funk Rock",
+            "Psychedelic Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/370b07810e50004ddb64d53d336c140b/6152128/Funkadelic%20-%20Maggot%20Brain%2C%20Cover%20art.png",
         "Rank": 231,
         "Year": 1971
-    },"Some Rap Songs": {
+    },
+    "Some Rap Songs": {
         "Artist": "Earl Sweatshirt",
-        "Genres": ["Abstract Hip Hop", "Drumless", "Experimental Hip Hop"],
+        "Genres": [
+            "Abstract Hip Hop",
+            "Drumless",
+            "Experimental Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4f063656696a1f729ba2a9a62dcbdd5c/9634567/Earl%20Sweatshirt%20-%20Some%20Rap%20Songs%2C%20Cover%20art.jpeg",
         "Rank": 232,
         "Year": 2018
-    },"Thick as a Brick": {
+    },
+    "Thick as a Brick": {
         "Artist": "Jethro Tull",
-        "Genres": ["Progressive Rock"],
+        "Genres": [
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/33b20419faa198a63ce6639c7b859ef9/1988441/Jethro%20Tull%20-%20Thick%20as%20a%20Brick%2C%20Cover%20art.jpeg",
         "Rank": 233,
         "Year": 1972
-    },"The Velvet Rope": {
+    },
+    "The Velvet Rope": {
         "Artist": "Janet",
-        "Genres": ["Contemporary R&amp;B"],
+        "Genres": [
+            "Contemporary R&amp;B"
+        ],
         "Image": "https://e.snmc.io/i/300/s/61fca3d753627ddc2488371119f3dbfe/8013977/Janet%20-%20The%20Velvet%20Rope%2C%20Cover%20art.jpeg",
         "Rank": 234,
         "Year": 1997
-    },"A Crow Looked at Me": {
+    },
+    "A Crow Looked at Me": {
         "Artist": "Mount Eerie",
-        "Genres": ["Indie Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c0902baee2c155dfa9a74ee385ac0d51/9824558/Mount%20Eerie%20-%20A%20Crow%20Looked%20at%20Me%2C%20Cover%20art.png",
         "Rank": 235,
         "Year": 2017
-    },"Third": {
+    },
+    "Third": {
         "Artist": "Portishead",
-        "Genres": ["Electronic", "Experimental Rock"],
+        "Genres": [
+            "Electronic",
+            "Experimental Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/69ba1ba89f4105e9c6b3b359992eb36f/2942336/Portishead%20-%20Third%2C%20Cover%20art.jpeg",
         "Rank": 236,
         "Year": 2008
-    },"Modal Soul": {
+    },
+    "Modal Soul": {
         "Artist": "Nujabes",
-        "Genres": ["Instrumental Hip Hop", "Jazz Rap"],
+        "Genres": [
+            "Instrumental Hip Hop",
+            "Jazz Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/e7d62df12948899aaad1dad253be9d4c/11280844/Nujabes%20-%20Modal%20Soul%2C%20Cover%20art.jpeg",
         "Rank": 237,
         "Year": 2005
-    },"The Forever Story": {
+    },
+    "The Forever Story": {
         "Artist": "J.I.D",
-        "Genres": ["Conscious Hip Hop", "Southern Hip Hop"],
+        "Genres": [
+            "Conscious Hip Hop",
+            "Southern Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4dfa153eac4503992f67476ec0f6402f/10163281/J_I_D%20-%20The%20Forever%20Story%2C%20Cover%20art.jpeg",
         "Rank": 238,
         "Year": 2022
-    },"XO": {
+    },
+    "XO": {
         "Artist": "Elliott Smith",
-        "Genres": ["Indie Pop", "Singer-Songwriter"],
+        "Genres": [
+            "Indie Pop",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0a1344727f8216d68c3ac28b2b815299/7026257/Elliott%20Smith%20-%20XO%2C%20Cover%20art.jpeg",
         "Rank": 239,
         "Year": 1998
-    },"Sound of Silver": {
+    },
+    "Sound of Silver": {
         "Artist": "LCD Soundsystem",
-        "Genres": ["Alternative Dance", "Dance-Punk", "Indietronica"],
+        "Genres": [
+            "Alternative Dance",
+            "Dance-Punk",
+            "Indietronica"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ac193d04a66511d39eabf01bc41262ce/8649002/LCD%20Soundsystem%20-%20Sound%20of%20Silver%2C%20Cover%20art.jpeg",
         "Rank": 240,
         "Year": 2007
-    },"If You're Feeling Sinister": {
+    },
+    "If You're Feeling Sinister": {
         "Artist": "Belle and Sebastian",
-        "Genres": ["Chamber Pop", "Twee Pop"],
+        "Genres": [
+            "Chamber Pop",
+            "Twee Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/0ad92eb60e060d24a0df63f76d43618c/11902397/Belle%20and%20Sebastian%20-%20If%20You're%20Feeling%20Sinister%2C%20Cover%20art.jpeg",
         "Rank": 241,
         "Year": 1996
-    },"Crooked Rain, Crooked Rain": {
+    },
+    "Crooked Rain, Crooked Rain": {
         "Artist": "Pavement",
-        "Genres": ["Indie Rock", "Slacker Rock"],
+        "Genres": [
+            "Indie Rock",
+            "Slacker Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/35848a67ddc63702bb1e9f47dde550b0/8660574/Pavement%20-%20Crooked%20Rain%2C%20Crooked%20Rain%2C%20Cover%20art.jpeg",
         "Rank": 242,
         "Year": 1994
-    },"Fresh Fruit for Rotting Vegetables": {
+    },
+    "Fresh Fruit for Rotting Vegetables": {
         "Artist": "Dead Kennedys",
-        "Genres": ["Hardcore Punk", "Punk Rock"],
+        "Genres": [
+            "Hardcore Punk",
+            "Punk Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ff83b6050adf5d2f5d350cc7be85a1d1/1255980/Dead%20Kennedys%20-%20Fresh%20Fruit%20for%20Rotting%20Vegetables%2C%20Cover%20art.jpeg",
         "Rank": 243,
         "Year": 1980
-    },"Yankee Hotel Foxtrot": {
+    },
+    "Yankee Hotel Foxtrot": {
         "Artist": "Wilco",
-        "Genres": ["Art Rock", "Indie Rock"],
+        "Genres": [
+            "Art Rock",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/21a7c316c41071cf27b53c667e633276/6408253/Wilco%20-%20Yankee%20Hotel%20Foxtrot%2C%20Cover%20art.jpeg",
         "Rank": 244,
         "Year": 2002
-    },"Dragon New Warm Mountain I Believe in You": {
+    },
+    "Dragon New Warm Mountain I Believe in You": {
         "Artist": "Big Thief",
-        "Genres": ["Folk Rock", "Indie Folk"],
+        "Genres": [
+            "Folk Rock",
+            "Indie Folk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/fffe4650ce9b6e63fc929ba52815331b/9503983/Big%20Thief%20-%20Dragon%20New%20Warm%20Mountain%20I%20Believe%20in%20You%2C%20Cover%20art.jpeg",
         "Rank": 245,
         "Year": 2022
-    },"Blues &amp; Roots": {
+    },
+    "Blues &amp; Roots": {
         "Artist": "Charlie Mingus",
-        "Genres": ["Post-Bop"],
-        "Image": "https://e.snmc.io/i/300/s/255380a32ae1bae1b3bc7f662eb11577/3842798/Charlie%20Mingus%20-%20Blues%20%26%20Roots%2C%20Cover%20art.jpeg",
+        "Genres": [
+            "Post-Bop"
+        ],
+        "Image": "https://e.snmc.io/i/600/w/5bef785c4e4de3e7daf404d792771b7e/3842798/charlie-mingus-blues-and-roots-Cover-Art.jpg",
         "Rank": 246,
         "Year": 1960
-    },"Forever Changes": {
+    },
+    "Forever Changes": {
         "Artist": "Love",
-        "Genres": ["Baroque Pop", "Psychedelic Pop", "Psychedelic Rock"],
+        "Genres": [
+            "Baroque Pop",
+            "Psychedelic Pop",
+            "Psychedelic Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2120e6f256fc89e27ea305749bd3ba61/10451361/Love%20-%20Forever%20Changes%2C%20Cover%20art.jpeg",
         "Rank": 247,
         "Year": 1967
-    },"Getz / Gilberto": {
+    },
+    "Getz / Gilberto": {
         "Artist": "Stan Getz &amp; João Gilberto",
-        "Genres": ["Bossa nova", "Samba-jazz"],
+        "Genres": [
+            "Bossa nova",
+            "Samba-jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6d360dc7c4b7841f97aed289eef4f426/12249641/Stan%20Getz%20%26%20Jo%C3%A3o%20Gilberto%20featuring%20Ant%C3%B4nio%20Carlos%20Jobim%20-%20Getz%20%2F%20Gilberto%2C%20Cover%20art.jpeg",
         "Rank": 248,
         "Year": 1964
-    },"Pastel Blues": {
+    },
+    "Pastel Blues": {
         "Artist": "Nina Simone",
-        "Genres": ["Rhythm &amp; Blues", "Soul", "Vocal Jazz"],
+        "Genres": [
+            "Rhythm &amp; Blues",
+            "Soul",
+            "Vocal Jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/14d2ec955a11958341c1074c19636b20/7468614/Nina%20Simone%20-%20Pastel%20Blues%2C%20Cover%20art.jpeg",
         "Rank": 249,
         "Year": 1965
-    },"0": {
-        "Artist": "青葉市子",
-        "Genres": ["Contemporary Folk", "Singer-Songwriter"],
-        "Image": "https://e.snmc.io/i/300/s/ff8bdc0315c5db2685f4f668182a7bae/8329253/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90%20%5BIchiko%20Aoba%5D%20-%200%2C%20Cover%20art.png",
-        "Rank": 250,
-        "Year": 2013
-    },"Led Zeppelin": {
+    },
+    "Led Zeppelin": {
         "Artist": "Led Zeppelin",
-        "Genres": ["Blues Rock", "Hard Rock"],
+        "Genres": [
+            "Blues Rock",
+            "Hard Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/82b11f7c54d564064a4d79cec4062503/12175741/Led%20Zeppelin%20-%20Led%20Zeppelin%2C%20Cover%20art.jpeg",
         "Rank": 251,
         "Year": 1969
-    },"Harvest": {
+    },
+    "Harvest": {
         "Artist": "Neil Young",
-        "Genres": ["Country Rock", "Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Country Rock",
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/dbf07ea6f7ea9fb113ee8be430ae3cbc/8392036/Neil%20Young%20-%20Harvest%2C%20Cover%20art.jpeg",
         "Rank": 252,
         "Year": 1972
-    },"Die Mensch-Maschine": {
+    },
+    "Die Mensch-Maschine": {
         "Artist": "Kraftwerk",
-        "Genres": ["Electronic", "Synthpop"],
+        "Genres": [
+            "Electronic",
+            "Synthpop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2fe06e74fb008dfb27af902bf128696d/1893297/Kraftwerk%20-%20Die%20Mensch-Maschine%2C%20Cover%20art.jpeg",
         "Rank": 253,
         "Year": 1978
-    },"Ram": {
+    },
+    "Ram": {
         "Artist": "Paul McCartney",
-        "Genres": ["Pop Rock"],
+        "Genres": [
+            "Pop Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/8b67da9f6cc6505205bd1511dce2f6aa/2396393/Paul%20%26%20Linda%20McCartney%20-%20Ram%2C%20Cover%20art.jpeg",
         "Rank": 254,
         "Year": 1971
-    },"The Mollusk": {
+    },
+    "The Mollusk": {
         "Artist": "Ween",
-        "Genres": ["Art Rock", "Neo-Psychedelia"],
+        "Genres": [
+            "Art Rock",
+            "Neo-Psychedelia"
+        ],
         "Image": "https://e.snmc.io/i/300/s/603705ede7bc047692e9b48757ff18ec/8392500/Ween%20-%20The%20Mollusk%2C%20Cover%20art.jpeg",
         "Rank": 255,
         "Year": 1997
-    },"Sabbath Bloody Sabbath": {
+    },
+    "Sabbath Bloody Sabbath": {
         "Artist": "Black Sabbath",
-        "Genres": ["Hard Rock", "Heavy Metal"],
+        "Genres": [
+            "Hard Rock",
+            "Heavy Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/739eb540e2f8ac34c74497c24182c07a/11291371/Black%20Sabbath%20-%20Sabbath%20Bloody%20Sabbath%2C%20Cover%20art.jpeg",
         "Rank": 256,
         "Year": 1973
-    },"Moment of Truth": {
+    },
+    "Moment of Truth": {
         "Artist": "Gang Starr",
-        "Genres": ["Boom Bap", "East Coast Hip Hop"],
+        "Genres": [
+            "Boom Bap",
+            "East Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d72a10c73c20bc6edb22cefcc737b658/3439792/Gang%20Starr%20-%20Moment%20of%20Truth%2C%20Cover%20art.jpeg",
         "Rank": 257,
         "Year": 1998
-    },"Demon Days": {
+    },
+    "Demon Days": {
         "Artist": "Gorillaz",
-        "Genres": ["Alternative Rock", "Art Pop", "Trip Hop"],
+        "Genres": [
+            "Alternative Rock",
+            "Art Pop",
+            "Trip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/49e2b0f170f439efc79f9856958df551/9588828/Gorillaz%20-%20Demon%20Days%2C%20Cover%20art.jpeg",
         "Rank": 258,
         "Year": 2005
-    },"Relationship of Command": {
+    },
+    "Relationship of Command": {
         "Artist": "At the Drive-In",
-        "Genres": ["Post-Hardcore"],
+        "Genres": [
+            "Post-Hardcore"
+        ],
         "Image": "https://e.snmc.io/i/300/s/193e236d1b48b444b8bf54d479944c83/12178265/At%20the%20Drive-In%20-%20Relationship%20of%20Command%2C%20Cover%20art.png",
         "Rank": 259,
         "Year": 2000
-    },"Weezer [Blue Album]": {
+    },
+    "Weezer [Blue Album]": {
         "Artist": "Weezer",
-        "Genres": ["Alternative Rock", "Power Pop"],
+        "Genres": [
+            "Alternative Rock",
+            "Power Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6801e36f7da5fc955317560435a685f9/8050262/Weezer%20-%20Weezer%20%5BBlue%20Album%5D%2C%20Cover%20art.png",
         "Rank": 260,
         "Year": 1994
-    },"Hejira": {
+    },
+    "Hejira": {
         "Artist": "Joni Mitchell",
-        "Genres": ["Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/55c2f5723ada7b772a4767dca3ad3e41/11673823/Joni%20Mitchell%20-%20Hejira%2C%20Cover%20art.jpeg",
         "Rank": 261,
         "Year": 1976
-    },"Speaking in Tongues": {
+    },
+    "Speaking in Tongues": {
         "Artist": "Talking Heads",
-        "Genres": ["New Wave", "Synth Funk"],
-        "Image": "https://e.snmc.io/i/300/s/e608b9108472ff1a6155146d3d835afe/8504960/Talking%20Heads%20-%20Speaking%20in%20Tongues%2C%20Cover%20art.jpeg",
+        "Genres": [
+            "New Wave",
+            "Synth Funk"
+        ],
+        "Image": "https://e.snmc.io/i/600/w/19303eba305a053307d6adcbe1c0de94/8504960/talking-heads-speaking-in-tongues-Cover-Art.jpg",
         "Rank": 262,
         "Year": 1983
-    },"救済の技法 (Kyuusai no gihou)": {
+    },
+    "救済の技法 (Kyuusai no gihou)": {
         "Artist": "平沢進",
-        "Genres": ["Art Pop", "Electronic", "Progressive Pop"],
+        "Genres": [
+            "Art Pop",
+            "Electronic",
+            "Progressive Pop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4bfc9e6fda6811c6907478e20e20ca08/12198864/%E5%B9%B3%E6%B2%A2%E9%80%B2%20%5BSusumu%20Hirasawa%5D%20-%20%E6%95%91%E6%B8%88%E3%81%AE%E6%8A%80%E6%B3%95%20(Kyuusai%20no%20gihou)%2C%20Cover%20art.jpeg",
         "Rank": 263,
         "Year": 1998
-    },"Physical Graffiti": {
+    },
+    "Physical Graffiti": {
         "Artist": "Led Zeppelin",
-        "Genres": ["Hard Rock"],
+        "Genres": [
+            "Hard Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/a1f7b7df6d3bec2fce86e11957f579d8/4815873/Led%20Zeppelin%20-%20Physical%20Graffiti%2C%20Cover%20art.jpeg",
         "Rank": 264,
         "Year": 1975
-    },"None So Vile": {
+    },
+    "None So Vile": {
         "Artist": "Cryptopsy",
-        "Genres": ["Brutal Death Metal", "Technical Death Metal"],
+        "Genres": [
+            "Brutal Death Metal",
+            "Technical Death Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/9eddd313a418b201ead309dfdfdceab2/2591115/Cryptopsy%20-%20None%20So%20Vile%2C%20Cover%20art.jpeg",
         "Rank": 265,
         "Year": 1996
-    },"Bryter Layter": {
+    },
+    "Bryter Layter": {
         "Artist": "Nick Drake",
-        "Genres": ["Chamber Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Chamber Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/800ad519e33b7c0c9b932cb9a2096df4/10431675/Nick%20Drake%20-%20Bryter%20Layter%2C%20Cover%20art.jpeg",
         "Rank": 266,
         "Year": 1971
-    },"Fragile": {
+    },
+    "Fragile": {
         "Artist": "Yes",
-        "Genres": ["Progressive Rock"],
+        "Genres": [
+            "Progressive Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2baff775d361721ff01e0ed08aabe648/6299409/Yes%20-%20Fragile%2C%20Cover%20art.jpeg",
         "Rank": 267,
         "Year": 1971
-    },"Blackwater Park": {
+    },
+    "Blackwater Park": {
         "Artist": "Opeth",
-        "Genres": ["Progressive Metal"],
+        "Genres": [
+            "Progressive Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6480511e329052e8df80de6a52eba2d1/9216543/Opeth%20-%20Blackwater%20Park%2C%20Cover%20art.jpeg",
         "Rank": 268,
         "Year": 2001
-    },"アダンの風 (Adan no kaze)": {
+    },
+    "アダンの風 (Adan no kaze)": {
         "Artist": "青葉市子",
-        "Genres": ["Chamber Folk", "Singer-Songwriter"],
+        "Genres": [
+            "Chamber Folk",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c3d3fc3045944ba71e3819256d53a51e/8578261/%E9%9D%92%E8%91%89%E5%B8%82%E5%AD%90%20%5BIchiko%20Aoba%5D%20-%20%E3%82%A2%E3%83%80%E3%83%B3%E3%81%AE%E9%A2%A8%20(Adan%20no%20kaze)%2C%20Cover%20art.jpeg",
         "Rank": 269,
         "Year": 2020
-    },"The Moon &amp; Antarctica": {
+    },
+    "The Moon &amp; Antarctica": {
         "Artist": "Modest Mouse",
-        "Genres": ["Indie Rock"],
+        "Genres": [
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c8e659d6600413cc3c171f15965999bb/9613939/Modest%20Mouse%20-%20The%20Moon%20%26%20Antarctica%2C%20Cover%20art.jpeg",
         "Rank": 270,
         "Year": 2000
-    },"Things Fall Apart": {
+    },
+    "Things Fall Apart": {
         "Artist": "The Roots",
-        "Genres": ["East Coast Hip Hop", "Jazz Rap"],
-        "Image": "https://e.snmc.io/i/300/s/4e3b74293445e205780fa222a5ccb85a/7080441/The%20Roots%20-%20Things%20Fall%20Apart%2C%20Cover%20art.jpeg",
+        "Genres": [
+            "East Coast Hip Hop",
+            "Jazz Rap"
+        ],
+        "Image": "https://e.snmc.io/i/600/w/a5dc0f5987d8e33a15f84c0819fde9e7/7080441/the-roots-things-fall-apart-Cover-Art.jpg",
         "Rank": 271,
         "Year": 1999
-    },"Entertainment!": {
+    },
+    "Entertainment!": {
         "Artist": "Gang of Four",
-        "Genres": ["Dance-Punk", "Post-Punk"],
+        "Genres": [
+            "Dance-Punk",
+            "Post-Punk"
+        ],
         "Image": "https://e.snmc.io/i/300/s/f41e6f19892b9224776a0bc140b67b34/3991343/Gang%20of%20Four%20-%20Entertainment!%2C%20Cover%20art.jpeg",
         "Rank": 272,
         "Year": 1979
-    },"The Life of Pablo": {
+    },
+    "The Life of Pablo": {
         "Artist": "Kanye West",
-        "Genres": ["Experimental Hip Hop", "Pop Rap"],
+        "Genres": [
+            "Experimental Hip Hop",
+            "Pop Rap"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6b388fff0b023e2db713f8910fa045a1/9714734/Kanye%20West%20-%20The%20Life%20of%20Pablo%2C%20Cover%20art.jpeg",
         "Rank": 273,
         "Year": 2016
-    },"Axis: Bold as Love": {
+    },
+    "Axis: Bold as Love": {
         "Artist": "The Jimi Hendrix Experience",
-        "Genres": ["Blues Rock", "Psychedelic Rock"],
+        "Genres": [
+            "Blues Rock",
+            "Psychedelic Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ae14305e0862c213fcc7cb81b60b22de/11306067/The%20Jimi%20Hendrix%20Experience%20-%20Axis%3A%20Bold%20as%20Love%2C%20Cover%20art.jpeg",
         "Rank": 274,
         "Year": 1967
-    },"Clics modernos": {
+    },
+    "Clics modernos": {
         "Artist": "Charly García",
-        "Genres": ["New Wave"],
+        "Genres": [
+            "New Wave"
+        ],
         "Image": "https://e.snmc.io/i/300/s/24047212bb855d5356d6e834f8974f51/10363074/Charly%20Garc%C3%ADa%20-%20Clics%20modernos%2C%20Cover%20art.jpeg",
         "Rank": 275,
         "Year": 1983
-    },"Bridge Over Troubled Water": {
+    },
+    "Bridge Over Troubled Water": {
         "Artist": "Simon and Garfunkel",
-        "Genres": ["Folk Pop", "Singer-Songwriter"],
+        "Genres": [
+            "Folk Pop",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2ee7bc2e5a96d57a3afe18ac31660789/1285049/Simon%20and%20Garfunkel%20-%20Bridge%20Over%20Troubled%20Water%2C%20Cover%20art.jpeg",
         "Rank": 276,
         "Year": 1970
-    },"Mirage": {
+    },
+    "Mirage": {
         "Artist": "Camel",
-        "Genres": ["Progressive Rock", "Symphonic Prog"],
+        "Genres": [
+            "Progressive Rock",
+            "Symphonic Prog"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b9b82974669777353f5a732cfc1fa256/10571035/Camel%20-%20Mirage%2C%20Cover%20art.jpeg",
         "Rank": 277,
         "Year": 1974
-    },"Trans Europa Express": {
+    },
+    "Trans Europa Express": {
         "Artist": "Kraftwerk",
-        "Genres": ["Electronic", "Progressive Electronic"],
+        "Genres": [
+            "Electronic",
+            "Progressive Electronic"
+        ],
         "Image": "https://e.snmc.io/i/300/s/91cd7c8a294e5fbfb18cc078da410e59/2092770/Kraftwerk%20-%20Trans%20Europa%20Express%2C%20Cover%20art.jpeg",
         "Rank": 278,
         "Year": 1977
-    },"The Fragile": {
+    },
+    "The Fragile": {
         "Artist": "Nine Inch Nails",
-        "Genres": ["Alternative Rock", "Art Rock", "Industrial Rock"],
+        "Genres": [
+            "Alternative Rock",
+            "Art Rock",
+            "Industrial Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6001edc0fdd5bff39512468d38541de5/3991747/Nine%20Inch%20Nails%20-%20The%20Fragile%2C%20Cover%20art.jpeg",
         "Rank": 279,
         "Year": 1999
-    },"Ascension [Edition I]": {
+    },
+    "Ascension [Edition I]": {
         "Artist": "John Coltrane",
-        "Genres": ["Free Jazz", "Spiritual Jazz"],
+        "Genres": [
+            "Free Jazz",
+            "Spiritual Jazz"
+        ],
         "Image": "https://e.snmc.io/i/300/s/98af78912c925f85e59fb106ea4d9ff2/8048963/John%20Coltrane%20-%20Ascension%20%5BEdition%20I%5D%2C%20Cover%20art.png",
         "Rank": 280,
         "Year": 1966
-    },"Repetition": {
+    },
+    "Repetition": {
         "Artist": "Unwound",
-        "Genres": ["Noise Rock", "Post-Hardcore"],
+        "Genres": [
+            "Noise Rock",
+            "Post-Hardcore"
+        ],
         "Image": "https://e.snmc.io/i/300/s/c021549f1e2985c201c35340d3ce4052/10584575/Unwound%20-%20Repetition%2C%20Cover%20art.jpeg",
         "Rank": 281,
         "Year": 1996
-    },"Hot Buttered Soul": {
+    },
+    "Hot Buttered Soul": {
         "Artist": "Isaac Hayes",
-        "Genres": ["Soul"],
+        "Genres": [
+            "Soul"
+        ],
         "Image": "https://e.snmc.io/i/300/s/b707e0eedb6e43a2b3888e0ea9d3ed4a/5125939/Isaac%20Hayes%20-%20Hot%20Buttered%20Soul%2C%20Cover%20art.jpeg",
         "Rank": 282,
         "Year": 1969
-    },"Led Zeppelin II": {
+    },
+    "Led Zeppelin II": {
         "Artist": "Led Zeppelin",
-        "Genres": ["Blues Rock", "Hard Rock"],
+        "Genres": [
+            "Blues Rock",
+            "Hard Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/4d14911555ffcf8942391738d86d0e35/10431623/Led%20Zeppelin%20-%20Led%20Zeppelin%20II%2C%20Cover%20art.jpeg",
         "Rank": 283,
         "Year": 1969
-    },"The Ascension": {
+    },
+    "The Ascension": {
         "Artist": "Glenn Branca",
-        "Genres": ["No Wave", "Noise Rock", "Totalism"],
+        "Genres": [
+            "No Wave",
+            "Noise Rock",
+            "Totalism"
+        ],
         "Image": "https://e.snmc.io/i/300/s/66cc6da12de6606d81bb850af031b04f/10181472/Glenn%20Branca%20-%20The%20Ascension%2C%20Cover%20art.png",
         "Rank": 284,
         "Year": 1981
-    },"Le sacre du printemps": {
+    },
+    "Le sacre du printemps": {
         "Artist": "Igor Stravinsky",
-        "Genres": ["Ballet", "Modern Classical", "Orchestral Music"],
+        "Genres": [
+            "Ballet",
+            "Modern Classical",
+            "Orchestral Music"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d4133510a6b516bf7a770e1552bbdc36/11224382/New%20York%20Philharmonic%20%2F%20Leonard%20Bernstein%20-%20Le%20sacre%20du%20printemps%2C%20Cover%20art.png",
         "Rank": 285,
         "Year": 1958
-    },"The Nocturnes": {
+    },
+    "The Nocturnes": {
         "Artist": "Frédéric Chopin",
-        "Genres": ["Nocturne", "Romanticism"],
+        "Genres": [
+            "Nocturne",
+            "Romanticism"
+        ],
         "Image": "https://e.snmc.io/i/300/s/5f5881195c300d244d3942af2b645c47/6751647/Artur%20Rubinstein%20-%20The%20Nocturnes%2C%20Cover%20art.jpeg",
         "Rank": 286,
         "Year": 1967
-    },"Seventh Son of a Seventh Son": {
+    },
+    "Seventh Son of a Seventh Son": {
         "Artist": "Iron Maiden",
-        "Genres": ["Heavy Metal"],
+        "Genres": [
+            "Heavy Metal"
+        ],
         "Image": "https://e.snmc.io/i/300/s/2a1454fe74afb1a06f2c101905d5b673/11292147/Iron%20Maiden%20-%20Seventh%20Son%20of%20a%20Seventh%20Son%2C%20Cover%20art.jpeg",
         "Rank": 287,
         "Year": 1988
-    },"By the Time I Get to Phoenix": {
+    },
+    "By the Time I Get to Phoenix": {
         "Artist": "Injury Reserve",
-        "Genres": ["Experimental", "Experimental Hip Hop", "Glitch Hop"],
+        "Genres": [
+            "Experimental",
+            "Experimental Hip Hop",
+            "Glitch Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/75e7e2497e8214a279d92e287e9797ab/9233236/Injury%20Reserve%20-%20By%20the%20Time%20I%20Get%20to%20Phoenix%2C%20Cover%20art.jpeg",
         "Rank": 288,
         "Year": 2021
-    },"Arthur or the Decline and Fall of the British Empire": {
+    },
+    "Arthur or the Decline and Fall of the British Empire": {
         "Artist": "The Kinks",
-        "Genres": ["Pop Rock", "Rock Opera"],
+        "Genres": [
+            "Pop Rock",
+            "Rock Opera"
+        ],
         "Image": "https://e.snmc.io/i/300/s/702f55d78513a2875a39fbb04438ebb6/3891636/The%20Kinks%20-%20Arthur%20or%20the%20Decline%20and%20Fall%20of%20the%20British%20Empire%2C%20Cover%20art.jpeg",
         "Rank": 289,
         "Year": 1969
-    },"Black Messiah": {
+    },
+    "Black Messiah": {
         "Artist": "D'Angelo and The Vanguard",
-        "Genres": ["Neo-Soul"],
+        "Genres": [
+            "Neo-Soul"
+        ],
         "Image": "https://e.snmc.io/i/300/s/ac7b667cc4c6ce95dce60c5f68d6c837/12269460/D'Angelo%20and%20The%20Vanguard%20-%20Black%20Messiah%2C%20Cover%20art.jpeg",
         "Rank": 290,
         "Year": 2014
-    },"Bone Machine": {
+    },
+    "Bone Machine": {
         "Artist": "Tom Waits",
-        "Genres": ["Experimental Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Experimental Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/6f4c2730e7130cf7be0dbd7edd55efbf/8276371/Tom%20Waits%20-%20Bone%20Machine%2C%20Cover%20art.jpeg",
         "Rank": 291,
         "Year": 1992
-    },"Surfer Rosa": {
+    },
+    "Surfer Rosa": {
         "Artist": "Pixies",
-        "Genres": ["Alternative Rock", "Indie Rock"],
+        "Genres": [
+            "Alternative Rock",
+            "Indie Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/5375b7b1723864e0dea67e61c4e71f75/2735834/Pixies%20-%20Surfer%20Rosa%2C%20Cover%20art.jpeg",
         "Rank": 292,
         "Year": 1988
-    },"Selected Ambient Works Volume II": {
+    },
+    "Selected Ambient Works Volume II": {
         "Artist": "Aphex Twin",
-        "Genres": ["Ambient", "Electronic"],
+        "Genres": [
+            "Ambient",
+            "Electronic"
+        ],
         "Image": "https://e.snmc.io/i/300/s/16eaaf39c73b1b74b966ce2c0c294be8/2622116/Aphex%20Twin%20-%20Selected%20Ambient%20Works%20Volume%20II%2C%20Cover%20art.jpeg",
         "Rank": 293,
         "Year": 1994
-    },"Foxtrot": {
+    },
+    "Foxtrot": {
         "Artist": "Genesis",
-        "Genres": ["Progressive Rock", "Symphonic Prog"],
+        "Genres": [
+            "Progressive Rock",
+            "Symphonic Prog"
+        ],
         "Image": "https://e.snmc.io/i/300/s/1616ffc04d346f70aa77e699131c6072/1380667/Genesis%20-%20Foxtrot%2C%20Cover%20art.jpeg",
         "Rank": 294,
         "Year": 1972
-    },"Ghosts of the Great Highway": {
+    },
+    "Ghosts of the Great Highway": {
         "Artist": "Sun Kil Moon",
-        "Genres": ["Folk Rock", "Singer-Songwriter"],
+        "Genres": [
+            "Folk Rock",
+            "Singer-Songwriter"
+        ],
         "Image": "https://e.snmc.io/i/300/s/839377ddec45a8dbb0edd11d66cdd882/4080011/Sun%20Kil%20Moon%20-%20Ghosts%20of%20the%20Great%20Highway%2C%20Cover%20art.jpeg",
         "Rank": 295,
         "Year": 2003
-    },"Lanquidity": {
+    },
+    "Lanquidity": {
         "Artist": "Sun Ra",
-        "Genres": ["Jazz Fusion"],
+        "Genres": [
+            "Jazz Fusion"
+        ],
         "Image": "https://e.snmc.io/i/300/s/26052f052947591fd02d0f93a4b28211/12264917/Sun%20Ra%20-%20Lanquidity%2C%20Cover%20art.jpeg",
         "Rank": 296,
         "Year": 1978
-    },"Paul's Boutique": {
+    },
+    "Paul's Boutique": {
         "Artist": "Beastie Boys",
-        "Genres": ["East Coast Hip Hop"],
+        "Genres": [
+            "East Coast Hip Hop"
+        ],
         "Image": "https://e.snmc.io/i/300/s/72fbda8045e4c2d37a4a6296c73c4603/11452286/Beastie%20Boys%20-%20Paul's%20Boutique%2C%20Cover%20art.jpeg",
         "Rank": 297,
         "Year": 1989
-    },"Wrong": {
+    },
+    "Wrong": {
         "Artist": "NoMeansNo",
-        "Genres": ["Post-Hardcore"],
+        "Genres": [
+            "Post-Hardcore"
+        ],
         "Image": "https://e.snmc.io/i/300/s/480eb17545bdb36b2fb4168918eca272/1864638/NoMeansNo%20-%20Wrong%2C%20Cover%20art.jpeg",
         "Rank": 298,
         "Year": 1989
-    },"Exile on Main St.": {
+    },
+    "Exile on Main St.": {
         "Artist": "The Rolling Stones",
-        "Genres": ["Blues Rock", "Roots Rock"],
+        "Genres": [
+            "Blues Rock",
+            "Roots Rock"
+        ],
         "Image": "https://e.snmc.io/i/300/s/d1247c9f53ba41bd69b99cc50ddcd04d/1208059/The%20Rolling%20Stones%20-%20Exile%20on%20Main%20St_%2C%20Cover%20art.jpeg",
         "Rank": 299,
         "Year": 1972
-    },"channel ORANGE": {
+    },
+    "channel ORANGE": {
         "Artist": "Frank Ocean",
-        "Genres": ["Alternative R&amp;B", "Contemporary R&amp;B"],
+        "Genres": [
+            "Alternative R&amp;B",
+            "Contemporary R&amp;B"
+        ],
         "Image": "https://e.snmc.io/i/300/s/17a958ce201b55248ab45336ba988a39/8060277/Frank%20Ocean%20-%20channel%20ORANGE%2C%20Cover%20art.jpeg",
         "Rank": 300,
         "Year": 2012
